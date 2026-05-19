@@ -1,0 +1,66 @@
+Upload this as `ai-key-manifest.json`.
+
+Important: replace only `YOUR_GITHUB_USERNAME/YOUR_REPO` in `n`/`nn` when you know the repo path.
+
+```json
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO/main/ai-key-manifest-next.json",
+  "nn": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO/main/ai-key-manifest-index.json",
+  "z": "inactive",
+  "h": "sha256:9f8b7d86c6a4012e6f5b0dbe9fb1f7c8a0c4f12b2c631f4a8efed912dc3c4b71",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "lRoIh//Kt3/Bq5+sq7YsVQ==",
+        "b": "si2DyZHhjRLxXpPO",
+        "c": "Myz4YyPWmv/1y+6O3Ce8qW8GBAkILeQpXcQGlioN2S8OuKjnBfYcf2ZzgBuMlPdiMnL5edwlxI65KuP9YXM3n98tgjLm5nezDZ+ltpNYoG1aZG0RVgTpOQgAoxZEbIjgt9EujbKBagi8wN6RfxistcK/Hg2IcxciXp6m0p9fTnaUAVgCQFNYCvuI1z0jHFrOJ5B6I9mUFvDzr+Z4/N4JTx1+ZPg=",
+        "d": "jCIf5dmxRbbxF0i4N8mC2w==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "oIQhk034mwIFzEK5NOGA+Q==",
+        "bb": "ge5OsiFTYIH/it9x",
+        "cc": "8/KZpnJrCAL6SrjE4o6EF8kC8/Yy0iLdfKxz0bfq0g5vqVfPNyUHmTu7xqbxVk9m"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "g9a+ZlfNM8Ye/z9+tPCxsw==",
+        "b": "6AraAivzLxa2y1Pv",
+        "c": "2vDOiZ0P/qtBkHzpV8r+14ev/xFfTMJPk/yK3Ix4S9QPcO1sfvKjgZFaOYICRGdcAh2PYsjC4w9IWq2/gaiOdoXVVHHi8q7pcwdCvmz8jz9fjAvh9csLASEfVLWpqlVG+wKHA4Zwvcvk85EJLRvFAiizBy02kafGOnKE6ysD5/bR1E4W0HucFrr+AWSZD9VG7jpYuqmutWHIbL+jPwg6iqZJ1Ro=",
+        "d": "1xPCR8VJJAPDI3Spgit9hA==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "vFd6j2muR1iboaLqrN6i+Q==",
+        "bb": "PD0b8xMKLUpLxxHN",
+        "cc": "Vw+Fb8yceLXBslqaqQhCx9A6ufi64hR7S8VROjm/k/Mv8yEduSAlYAz4PixV5eRM"
+      }
+    }
+  ]
+}
+```
