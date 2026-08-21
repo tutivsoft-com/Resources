@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/desktop-maui-Windows-Android-Tigris-Quote-AI-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/desktop-maui-Windows-Android-Tigris-Quote-AI-index.json",
+  "z": "inactive",
+  "h": "sha256:a77aa99d5ad45e568caeeddc48bf8f776d8b97d105706dcbad577807748e3ffa",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "V0hxIcQvrX2P7yLwG7PfSw==",
+        "b": "7/Y2ZyJsu3QCQj2c",
+        "c": "ESK0cvyGgqL0/oZDPRMxs6apoDjszQ0v9vm0b1HuLwk9oOjiX0zw/7b9WYRwGei/wft0a+WiQ467tQXP2ZoH0VWmljw5XR9HBw==",
+        "d": "/AOhIiOeTs40txOcnDoiaw==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "riXQvksflxaryI7vYQAH2A==",
+        "bb": "OqBTo/8fAbGnueDz",
+        "cc": "9I2MoQtqKLrKh9+ye2Ss4lGUVlaYvLvknAf84l43BLBoDOd0/eF17DzULTpuv432"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "V0hxIcQvrX2P7yLwG7PfSw==",
+        "b": "7/Y2ZyJsu3QCQj2c",
+        "c": "ESK0cvyGgqL0/oZDPRMxs6apoDjszQ0v9vm0b1HuLwk9oOjiX0zw/7b9WYRwGei/wft0a+WiQ467tQXP2ZoH0VWmljw5XR9HBw==",
+        "d": "/AOhIiOeTs40txOcnDoiaw==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "riXQvksflxaryI7vYQAH2A==",
+        "bb": "OqBTo/8fAbGnueDz",
+        "cc": "9I2MoQtqKLrKh9+ye2Ss4lGUVlaYvLvknAf84l43BLBoDOd0/eF17DzULTpuv432"
+      }
+    }
+  ]
+}

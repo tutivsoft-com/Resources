@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/n-Hamilton-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/n-Hamilton-index.json",
+  "z": "inactive",
+  "h": "sha256:d49ff982a90eb7df52f1f2379abc84c25c170d91f2832f051455d3b6e0cd8c18",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "1j2GAW1uRPxzAU9BP3b6Dg==",
+        "b": "0rI1mwnNlkF+AQlK",
+        "c": "GtuCPRkT4t6hbaP7HmutRPWewQ88Xa0TyRQpmEBo5TkE8/HvQcUtnyImsZfCVTt7sFJ6N41Lw0yXorQR1aARWG8JyNvbpPHbpw==",
+        "d": "igNQRcG8IQwNwgl5SoMsng==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "c6hK7P3xscrFl66nHc9epw==",
+        "bb": "8U5/8xsHVaQMMobY",
+        "cc": "FqcDRvwy9Rm+t+KO/oFbPP/4oYs090ZFvdkHpDattJhU10pGIaTLqdXanrZU4sqD"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "1j2GAW1uRPxzAU9BP3b6Dg==",
+        "b": "0rI1mwnNlkF+AQlK",
+        "c": "GtuCPRkT4t6hbaP7HmutRPWewQ88Xa0TyRQpmEBo5TkE8/HvQcUtnyImsZfCVTt7sFJ6N41Lw0yXorQR1aARWG8JyNvbpPHbpw==",
+        "d": "igNQRcG8IQwNwgl5SoMsng==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "c6hK7P3xscrFl66nHc9epw==",
+        "bb": "8U5/8xsHVaQMMobY",
+        "cc": "FqcDRvwy9Rm+t+KO/oFbPP/4oYs090ZFvdkHpDattJhU10pGIaTLqdXanrZU4sqD"
+      }
+    }
+  ]
+}

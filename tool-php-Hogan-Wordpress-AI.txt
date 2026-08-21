@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/tool-php-Hogan-Wordpress-AI-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/tool-php-Hogan-Wordpress-AI-index.json",
+  "z": "inactive",
+  "h": "sha256:5305c20b52612b7c0e5d7b3fc33ba1fa03e97407001f8452e5a0ffbe6ed0f7af",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "qe2KF5ouLGCgAmT30RMtrA==",
+        "b": "DYvz77EYdibV73/i",
+        "c": "a+9J/sorZzUprazIU703mJ/QUyYsSd8RkVQip/FyCNfKeN4ut7r9+NRdJMDKOQBVd85mh/2OeE4ubdvVNd7MUHkBEGsXpHFgdQ==",
+        "d": "G7ptTIPNNZDJTuLEkSrnyA==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "lMWKfTob6NYaf3A0chZ4Tg==",
+        "bb": "p19rpLVBsTeMnhph",
+        "cc": "F2eq5YrOFvI6splHUYmecfi2ktEpzLtZviPIsG7763PEIrtCcSg5XJ/J4wFrEUF0"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "qe2KF5ouLGCgAmT30RMtrA==",
+        "b": "DYvz77EYdibV73/i",
+        "c": "a+9J/sorZzUprazIU703mJ/QUyYsSd8RkVQip/FyCNfKeN4ut7r9+NRdJMDKOQBVd85mh/2OeE4ubdvVNd7MUHkBEGsXpHFgdQ==",
+        "d": "G7ptTIPNNZDJTuLEkSrnyA==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "lMWKfTob6NYaf3A0chZ4Tg==",
+        "bb": "p19rpLVBsTeMnhph",
+        "cc": "F2eq5YrOFvI6splHUYmecfi2ktEpzLtZviPIsG7763PEIrtCcSg5XJ/J4wFrEUF0"
+      }
+    }
+  ]
+}

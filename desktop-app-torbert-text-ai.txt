@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/desktop-app-torbert-text-ai-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/desktop-app-torbert-text-ai-index.json",
+  "z": "inactive",
+  "h": "sha256:5413f90a388b607f37f4870f178ca3646898e09682e11c0cd1a35a22e763112d",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "4zebwTFgV+RmBN9EIwenag==",
+        "b": "ftzSWdrH4WONNaFE",
+        "c": "43BM1+YBdT3xAc1BFceOA8UaBJbI9jtGDzsM8clAZlM2Zl9nH14J1rzhk8rD5P29y82UPms9+crF5LWSi6c6PnsktyXZl7ZhWw==",
+        "d": "4nYhUgE8/H6VHUdZ/2qXUw==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "rfjbKm16F2JsI65bm7RxPg==",
+        "bb": "kWrp08K692rlBqsL",
+        "cc": "vSgfIRRwI06BW5vxYo/7iuNNUcOTMnuK7Jrungn5/2iBVO1BYWDqb7tr4FDDatSY"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "4zebwTFgV+RmBN9EIwenag==",
+        "b": "ftzSWdrH4WONNaFE",
+        "c": "43BM1+YBdT3xAc1BFceOA8UaBJbI9jtGDzsM8clAZlM2Zl9nH14J1rzhk8rD5P29y82UPms9+crF5LWSi6c6PnsktyXZl7ZhWw==",
+        "d": "4nYhUgE8/H6VHUdZ/2qXUw==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "rfjbKm16F2JsI65bm7RxPg==",
+        "bb": "kWrp08K692rlBqsL",
+        "cc": "vSgfIRRwI06BW5vxYo/7iuNNUcOTMnuK7Jrungn5/2iBVO1BYWDqb7tr4FDDatSY"
+      }
+    }
+  ]
+}

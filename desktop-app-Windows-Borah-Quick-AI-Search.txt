@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/desktop-app-Windows-Borah-Quick-AI-Search-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/desktop-app-Windows-Borah-Quick-AI-Search-index.json",
+  "z": "inactive",
+  "h": "sha256:69a516bfd9f746c4c50bdcf64bdb6db7aba2b53962b81f587ecc5b08dbef36b9",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "jMfiwY6dIKZPuEe5jgpePA==",
+        "b": "eM/FQ1VQuCShNmpg",
+        "c": "5GqZLclzRGmHvAPcEWqKZC6+CutLvNcckVipWHqjnRHpo6q4Y3IWG7ShUFAPT9uOR0eD2cIidmn9EEdy2eeZGA0ZyRQv5G1S8Q==",
+        "d": "IPkLGUa9hu/R9PwGpry4Dg==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "fnLsI1X07YrK6tt18wsLgA==",
+        "bb": "326dsqbrx2HnzNhc",
+        "cc": "4F0hFs2aUvgcJIugIy/u846Dmy4DivL1H9iXfqsftu50dBYqU/h0IKSmQ5VwyrUm"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "jMfiwY6dIKZPuEe5jgpePA==",
+        "b": "eM/FQ1VQuCShNmpg",
+        "c": "5GqZLclzRGmHvAPcEWqKZC6+CutLvNcckVipWHqjnRHpo6q4Y3IWG7ShUFAPT9uOR0eD2cIidmn9EEdy2eeZGA0ZyRQv5G1S8Q==",
+        "d": "IPkLGUa9hu/R9PwGpry4Dg==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "fnLsI1X07YrK6tt18wsLgA==",
+        "bb": "326dsqbrx2HnzNhc",
+        "cc": "4F0hFs2aUvgcJIugIy/u846Dmy4DivL1H9iXfqsftu50dBYqU/h0IKSmQ5VwyrUm"
+      }
+    }
+  ]
+}

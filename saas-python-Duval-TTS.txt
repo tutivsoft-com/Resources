@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/saas-python-Duval-TTS-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/saas-python-Duval-TTS-index.json",
+  "z": "inactive",
+  "h": "sha256:201302da8482ba4c64c96657bff29047cea335b544970d97886e1f51a39f62a3",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "h8sd1ZBYKc/ZFeK0LiDpVg==",
+        "b": "8QoOxP0YG8LVmBHh",
+        "c": "stDRyzDAhypg+n4D2jhYJ7T9xEw/dEB52ikZWMKXdJf2sq+0Ux3h5q9/erL8TnSY0clQtwueqR6ui9unzssnBIbczgo6lXbuQQ==",
+        "d": "9bZCaSKvtX0tCisF6IqkRg==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "PpWrnkSAQP38MaZChO+7xw==",
+        "bb": "6o3HIG7XjTLL2hgI",
+        "cc": "e1RTG+64h6CQcrUJnwAIMeSYSknYeZBoyXoG/EjO5oqLWMYtqDIkoERSv9k9nBqU"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "h8sd1ZBYKc/ZFeK0LiDpVg==",
+        "b": "8QoOxP0YG8LVmBHh",
+        "c": "stDRyzDAhypg+n4D2jhYJ7T9xEw/dEB52ikZWMKXdJf2sq+0Ux3h5q9/erL8TnSY0clQtwueqR6ui9unzssnBIbczgo6lXbuQQ==",
+        "d": "9bZCaSKvtX0tCisF6IqkRg==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "PpWrnkSAQP38MaZChO+7xw==",
+        "bb": "6o3HIG7XjTLL2hgI",
+        "cc": "e1RTG+64h6CQcrUJnwAIMeSYSknYeZBoyXoG/EjO5oqLWMYtqDIkoERSv9k9nBqU"
+      }
+    }
+  ]
+}

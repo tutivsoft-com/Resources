@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/saas-python-Rivera-Torrent-Fully-Automated-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/saas-python-Rivera-Torrent-Fully-Automated-index.json",
+  "z": "inactive",
+  "h": "sha256:7686e184bda8f062f32e1608d6168f7cb0e18ca201c37e23709cb4dbd68faac9",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "0mc8Db/iA9FadDlNLBmzWQ==",
+        "b": "8qb5gZS891sHkJCM",
+        "c": "IrqPBKyUCpDZTw1FKSz2UI1PddiIlFZD5bmg6On155jrVZHJAqJXil2DunNxDK1kv6WAmqSofvu7ersx/qtGQhlYPYq7zQEKxQ==",
+        "d": "J4GurgbQuzthxV0weVnGNw==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "oztkgfzYPyjn0NOO1QpqRw==",
+        "bb": "9JuqMU1pF+6iUSd2",
+        "cc": "uMLafUzDJRY66AZjwGtvxrcW2J8zgo0VwpEAbQxyVfuEKFIVkKYzPxYnx0/mwpXd"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "0mc8Db/iA9FadDlNLBmzWQ==",
+        "b": "8qb5gZS891sHkJCM",
+        "c": "IrqPBKyUCpDZTw1FKSz2UI1PddiIlFZD5bmg6On155jrVZHJAqJXil2DunNxDK1kv6WAmqSofvu7ersx/qtGQhlYPYq7zQEKxQ==",
+        "d": "J4GurgbQuzthxV0weVnGNw==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "oztkgfzYPyjn0NOO1QpqRw==",
+        "bb": "9JuqMU1pF+6iUSd2",
+        "cc": "uMLafUzDJRY66AZjwGtvxrcW2J8zgo0VwpEAbQxyVfuEKFIVkKYzPxYnx0/mwpXd"
+      }
+    }
+  ]
+}

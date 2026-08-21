@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/tool-python-Python-Summary-Textract-Paragraph-Condense-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/tool-python-Python-Summary-Textract-Paragraph-Condense-index.json",
+  "z": "inactive",
+  "h": "sha256:d5291435fbe4f4cc29694f8fa472f6c56a8fb7eb2cdebcbf08ae237a9dbccae4",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "D9qA8CGra2NawWmkGsWXIA==",
+        "b": "eQrTEiZOIz2krq5Q",
+        "c": "svlLluoyXUoirK3cMzIAhrFTQLBNrLERMUDvV5EZNjU/MpXg+gX9mRqBre107OZWf11yzx0oo/pmS5PY+cMCI6+818LFDeog7w==",
+        "d": "YDMLl8kVF5C37g0NSIkDzg==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "sup2O0NGQjd1kYsgrVMC0w==",
+        "bb": "XqpJW0gSpPceosLb",
+        "cc": "FAoyv15WHu+BA6TW1y7kyAD6rUYWQjxO4G0g2SU2shAzN0PjA0z27uW6cfxZIkYM"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "D9qA8CGra2NawWmkGsWXIA==",
+        "b": "eQrTEiZOIz2krq5Q",
+        "c": "svlLluoyXUoirK3cMzIAhrFTQLBNrLERMUDvV5EZNjU/MpXg+gX9mRqBre107OZWf11yzx0oo/pmS5PY+cMCI6+818LFDeog7w==",
+        "d": "YDMLl8kVF5C37g0NSIkDzg==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "sup2O0NGQjd1kYsgrVMC0w==",
+        "bb": "XqpJW0gSpPceosLb",
+        "cc": "FAoyv15WHu+BA6TW1y7kyAD6rUYWQjxO4G0g2SU2shAzN0PjA0z27uW6cfxZIkYM"
+      }
+    }
+  ]
+}

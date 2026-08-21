@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/extension-app-Elbert-AI-Content-Summary-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/extension-app-Elbert-AI-Content-Summary-index.json",
+  "z": "inactive",
+  "h": "sha256:afa3c439fa095e3d628bd16a6cfc8d20cd40f5df49e1c6c62ea75814f652d390",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "g8RCh+AWe+0+ALfzXPJjVw==",
+        "b": "Slh410LP9ktlR5Py",
+        "c": "yPdFNyscc+BLbNNZuE+iJode2RSbzE/guadrg5yQBhMMkjyydiCw27JVjr5l5jr/81Gto3+z4Oi/4PcQaoOxEFTFMP5yuFJJpw==",
+        "d": "18nQp3SMg9VTkQylYMuX2A==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "sLfivJPmLP0aIERmLdf02A==",
+        "bb": "Z8hKAFkEuPqyh/ze",
+        "cc": "j08pJU0hxUkVAKKASuFt2jmIzt3Jl00x6om8NHjNtKPEhBPl6GTl+0nBSiMn3xBM"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "g8RCh+AWe+0+ALfzXPJjVw==",
+        "b": "Slh410LP9ktlR5Py",
+        "c": "yPdFNyscc+BLbNNZuE+iJode2RSbzE/guadrg5yQBhMMkjyydiCw27JVjr5l5jr/81Gto3+z4Oi/4PcQaoOxEFTFMP5yuFJJpw==",
+        "d": "18nQp3SMg9VTkQylYMuX2A==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "sLfivJPmLP0aIERmLdf02A==",
+        "bb": "Z8hKAFkEuPqyh/ze",
+        "cc": "j08pJU0hxUkVAKKASuFt2jmIzt3Jl00x6om8NHjNtKPEhBPl6GTl+0nBSiMn3xBM"
+      }
+    }
+  ]
+}

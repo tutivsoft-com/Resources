@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/desktop-winui3-Windows-WinUI3-AITAC-AI-Task-Calendar-Boilerplate-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/desktop-winui3-Windows-WinUI3-AITAC-AI-Task-Calendar-Boilerplate-index.json",
+  "z": "inactive",
+  "h": "sha256:cbf1c7f4b5f2ec4fe10edbeea636d0debb384e2ef37945ebf46a0b1d982db245",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "0/IN7KAsc36jJzonatlM4g==",
+        "b": "MFidYNFjRGRZr74d",
+        "c": "IMwXoUxgag0kAldkDPZzpWvafIbX2WyTwXUGwFMiVYrrDxKu3HCi8iOWhTj5w2xpHRnfhMNtfstwHsoE1NbqVUw0RQOI2lJ3yQ==",
+        "d": "qgRrqx06TYetc6IzS786aA==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "IcIB9NViFeAFagT+FJ2E8w==",
+        "bb": "t4ZQsC3XMPFZ4K4i",
+        "cc": "RJlr5EBoRrqShX7XrGCz+3UfEn7mlUSK6phmDv6Ef2SieQXCWCUffrp3ovRfEqgg"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "0/IN7KAsc36jJzonatlM4g==",
+        "b": "MFidYNFjRGRZr74d",
+        "c": "IMwXoUxgag0kAldkDPZzpWvafIbX2WyTwXUGwFMiVYrrDxKu3HCi8iOWhTj5w2xpHRnfhMNtfstwHsoE1NbqVUw0RQOI2lJ3yQ==",
+        "d": "qgRrqx06TYetc6IzS786aA==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "IcIB9NViFeAFagT+FJ2E8w==",
+        "bb": "t4ZQsC3XMPFZ4K4i",
+        "cc": "RJlr5EBoRrqShX7XrGCz+3UfEn7mlUSK6phmDv6Ef2SieQXCWCUffrp3ovRfEqgg"
+      }
+    }
+  ]
+}

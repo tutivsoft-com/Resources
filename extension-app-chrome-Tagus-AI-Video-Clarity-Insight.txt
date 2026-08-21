@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/extension-app-chrome-Tagus-AI-Video-Clarity-Insight-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/extension-app-chrome-Tagus-AI-Video-Clarity-Insight-index.json",
+  "z": "inactive",
+  "h": "sha256:96fac56ddff1086d5223bd8fef967d26b81949b684ac91c2bf0dd54d4035ad55",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "cruJwJhqiGOBKaIovy4xYw==",
+        "b": "ckVpF6CInUh27GBO",
+        "c": "P9Hdb7RW6hauDjZXVEPq79EciBiZUSsLiLMeRDyOtaduZaVnQKv6JwB3x9wGJGV09t08rnrVaXf14qcuHEQ7fYRtwiki5r6NpQ==",
+        "d": "d8aRD2QxfZpoB0rotOJ+Ew==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "CSgkJIxKEbZ3sQwTNsNSTQ==",
+        "bb": "omalPUZMaG++LzyM",
+        "cc": "pYj5pGj7rjVxHpsdPBLQ9cqcFaiYau8daJwd6DJng9VrpK2D+ph2ntpplx7NjLIn"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "cruJwJhqiGOBKaIovy4xYw==",
+        "b": "ckVpF6CInUh27GBO",
+        "c": "P9Hdb7RW6hauDjZXVEPq79EciBiZUSsLiLMeRDyOtaduZaVnQKv6JwB3x9wGJGV09t08rnrVaXf14qcuHEQ7fYRtwiki5r6NpQ==",
+        "d": "d8aRD2QxfZpoB0rotOJ+Ew==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "CSgkJIxKEbZ3sQwTNsNSTQ==",
+        "bb": "omalPUZMaG++LzyM",
+        "cc": "pYj5pGj7rjVxHpsdPBLQ9cqcFaiYau8daJwd6DJng9VrpK2D+ph2ntpplx7NjLIn"
+      }
+    }
+  ]
+}

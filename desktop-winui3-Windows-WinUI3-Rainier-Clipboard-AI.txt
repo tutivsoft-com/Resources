@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/desktop-winui3-Windows-WinUI3-Rainier-Clipboard-AI-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/desktop-winui3-Windows-WinUI3-Rainier-Clipboard-AI-index.json",
+  "z": "inactive",
+  "h": "sha256:d4b7d7dd5226d0dfbb0e10663db0d026772ef29c70fb857ec5791dffa69d0b01",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "dQ+12jr51RB0zNJArSrV4Q==",
+        "b": "+kuec19ZXIEL4QB0",
+        "c": "W3GumTFtqfriUYa5deAGNWFvRnWrm9x0gjW9GtZxd+RQXSnULAofXUm1rXMMv8eSF6rjl/DClvwqCmBp6LdVpHplJej4viXw6A==",
+        "d": "SPafEqGhSY8pl8rRU7OS4A==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "zeR1DysXri/AWAijcKwnAA==",
+        "bb": "O70bqosuJcKlnQ3i",
+        "cc": "5sunlOMWHJKOJDoUiynQVWBx4aPH4mzdG3Z81gFNM2vk8UpaN7Dxx/93UA/6yUvp"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "dQ+12jr51RB0zNJArSrV4Q==",
+        "b": "+kuec19ZXIEL4QB0",
+        "c": "W3GumTFtqfriUYa5deAGNWFvRnWrm9x0gjW9GtZxd+RQXSnULAofXUm1rXMMv8eSF6rjl/DClvwqCmBp6LdVpHplJej4viXw6A==",
+        "d": "SPafEqGhSY8pl8rRU7OS4A==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "zeR1DysXri/AWAijcKwnAA==",
+        "bb": "O70bqosuJcKlnQ3i",
+        "cc": "5sunlOMWHJKOJDoUiynQVWBx4aPH4mzdG3Z81gFNM2vk8UpaN7Dxx/93UA/6yUvp"
+      }
+    }
+  ]
+}

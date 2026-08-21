@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/tool-python-Ostra-AI-Logs-to-Markdown-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/tool-python-Ostra-AI-Logs-to-Markdown-index.json",
+  "z": "inactive",
+  "h": "sha256:3574751b6a4f83b2e6f2231cb5d972b0e62f30f3485e23c0355d3d7b36eb5a5f",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "Tra+w9i3X50msShaH66REQ==",
+        "b": "r7rMdSn6ou7UdQFO",
+        "c": "4+hBZC+btHMly7+kP3VIZoe70kyRecQPdNB7Fo/0HeMtwbMFnFpTLcp8NWFVfjdLxXBWnwJ80MUOW/7M1HNDnR975jHiuTUltw==",
+        "d": "6S/4u66Kmvp6W8ZNfHQ6tA==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "Ck4jpLzVJh8Ifx8eQL1MYg==",
+        "bb": "3ehhvSoRC52P18O0",
+        "cc": "gHPtQX5Esc21CCXR0x+PQAs4KNsihGiHNj9SftW1vt2JhRJklaTChOgjxBskwaud"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "Tra+w9i3X50msShaH66REQ==",
+        "b": "r7rMdSn6ou7UdQFO",
+        "c": "4+hBZC+btHMly7+kP3VIZoe70kyRecQPdNB7Fo/0HeMtwbMFnFpTLcp8NWFVfjdLxXBWnwJ80MUOW/7M1HNDnR975jHiuTUltw==",
+        "d": "6S/4u66Kmvp6W8ZNfHQ6tA==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "Ck4jpLzVJh8Ifx8eQL1MYg==",
+        "bb": "3ehhvSoRC52P18O0",
+        "cc": "gHPtQX5Esc21CCXR0x+PQAs4KNsihGiHNj9SftW1vt2JhRJklaTChOgjxBskwaud"
+      }
+    }
+  ]
+}

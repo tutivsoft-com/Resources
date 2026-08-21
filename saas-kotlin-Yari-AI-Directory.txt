@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/saas-kotlin-Yari-AI-Directory-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/saas-kotlin-Yari-AI-Directory-index.json",
+  "z": "inactive",
+  "h": "sha256:0da46b43c4ef2015ebd0ffc0218deab9ef2168a42d589ad7ab69069c0353f5b4",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "smeR5jLx9TX0+GXA0c64fA==",
+        "b": "4uSPScopPy56E1pO",
+        "c": "purFnZrrDgGS/xj7B3tN29gf8e/QbrGo/5nUsrrSicH719NUFfHImq0hggdvok/zFNLWGdEKHn3gKFCztHxUdjGtayn/AvXSSw==",
+        "d": "ngfYfetaqqbb8DtbbDa0Wg==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "z3ELAiZWD4zDEsMGgtxAUA==",
+        "bb": "xPnXKSLl7UzyVA7L",
+        "cc": "bZtJb/1dhGhPh/6Fb4Nz4bDkRSyy1YLf6g23uE1zR5aIi97l25KBcW2rqTu5YbTr"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "smeR5jLx9TX0+GXA0c64fA==",
+        "b": "4uSPScopPy56E1pO",
+        "c": "purFnZrrDgGS/xj7B3tN29gf8e/QbrGo/5nUsrrSicH719NUFfHImq0hggdvok/zFNLWGdEKHn3gKFCztHxUdjGtayn/AvXSSw==",
+        "d": "ngfYfetaqqbb8DtbbDa0Wg==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "z3ELAiZWD4zDEsMGgtxAUA==",
+        "bb": "xPnXKSLl7UzyVA7L",
+        "cc": "bZtJb/1dhGhPh/6Fb4Nz4bDkRSyy1YLf6g23uE1zR5aIi97l25KBcW2rqTu5YbTr"
+      }
+    }
+  ]
+}

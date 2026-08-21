@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/Generic-015-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/Generic-015-index.json",
+  "z": "inactive",
+  "h": "sha256:c4a5c79fa267b6a5630d7dcfd2afa8efecd5253c7974ce44e2c51f08ac24374c",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "wkpruQqNz1TGNCcFWt1NWw==",
+        "b": "mK5lZq7JB3Ghzbgx",
+        "c": "pkisjcTWXa+rNyiD/I+7w5+p4zXn7VdRpShqaGUklnWVwhyD+UQOxHJp/pd2dfDtGY3HNhjm4HwRJPHMaLGBo5d+nTaiSv2eig==",
+        "d": "eRMkIHSEubxqdRQ8rRaxdg==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "bQuvcI/RiWSYWFZlCYgHRg==",
+        "bb": "wuwxZ0dDWb3as16t",
+        "cc": "PGGAokfzT5UsD8ey/KL9m6oyLtB/dM0CpCpNc822HdAxNGJ/x89wLs1RlViknv/8"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "wkpruQqNz1TGNCcFWt1NWw==",
+        "b": "mK5lZq7JB3Ghzbgx",
+        "c": "pkisjcTWXa+rNyiD/I+7w5+p4zXn7VdRpShqaGUklnWVwhyD+UQOxHJp/pd2dfDtGY3HNhjm4HwRJPHMaLGBo5d+nTaiSv2eig==",
+        "d": "eRMkIHSEubxqdRQ8rRaxdg==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "bQuvcI/RiWSYWFZlCYgHRg==",
+        "bb": "wuwxZ0dDWb3as16t",
+        "cc": "PGGAokfzT5UsD8ey/KL9m6oyLtB/dM0CpCpNc822HdAxNGJ/x89wLs1RlViknv/8"
+      }
+    }
+  ]
+}

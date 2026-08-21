@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/desktop-app-Windows-Foraker-Spell-Correct-AI-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/desktop-app-Windows-Foraker-Spell-Correct-AI-index.json",
+  "z": "inactive",
+  "h": "sha256:4befa4fcfdf9ef494ea75dc7f60c3b0c29c748247d674a88100bf89dbe4eaefd",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "KSIxRQFgd8t+gbow7U13VA==",
+        "b": "/m51yUWdMENYZLMw",
+        "c": "/LbyQSxReGFqtC2PNowpZPLVyU33KND78XRyFcDBUQEvbOjlpq+IGcStEIL9QtlJlR164NIu8jE3aBSSg5zOwkFFjJN6otGwYg==",
+        "d": "CQr1Be/WvyinOcl0z279yg==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "KtamkNoJIhy7nVjaVBCw1Q==",
+        "bb": "3JXe4CpYHNnp6eLa",
+        "cc": "gNN7L9WOsaaWzxQhrEZT6k8of2auhW/loj5PsmbTnYRN+zbQ0xaNbjHCkdYGT3XI"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "KSIxRQFgd8t+gbow7U13VA==",
+        "b": "/m51yUWdMENYZLMw",
+        "c": "/LbyQSxReGFqtC2PNowpZPLVyU33KND78XRyFcDBUQEvbOjlpq+IGcStEIL9QtlJlR164NIu8jE3aBSSg5zOwkFFjJN6otGwYg==",
+        "d": "CQr1Be/WvyinOcl0z279yg==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "KtamkNoJIhy7nVjaVBCw1Q==",
+        "bb": "3JXe4CpYHNnp6eLa",
+        "cc": "gNN7L9WOsaaWzxQhrEZT6k8of2auhW/loj5PsmbTnYRN+zbQ0xaNbjHCkdYGT3XI"
+      }
+    }
+  ]
+}

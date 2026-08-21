@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/tool-python-Python-ContextMatch-AI-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/tool-python-Python-ContextMatch-AI-index.json",
+  "z": "inactive",
+  "h": "sha256:d43f19c99ede3175416e5a787569b306ddb45c55c2c1c22c124ac33b8a6acff9",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "ifNyT0hE/tS8baKZvgcj/A==",
+        "b": "kH7mL6UExiNvTkZC",
+        "c": "jbG1YYhkT/yvBY53yKlQk1K3hC2ctoCbjMeImZT/MSYfXVlXQQ6GOMr2UbiTLv7i1aJHRb07h9qP7jbK0Y3eOG3ov2FOGpJvbw==",
+        "d": "B8VczQscIEi87viLA0Cosw==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "jWx+Q1UZuRJrGSLwi5HAhw==",
+        "bb": "iDItdGLxJGsiXbYg",
+        "cc": "Y8B7GYzK+Opr6g/NBDrhWX/O4r0jIw9UYZ0/jNB2Prq4uTDgU+ti19ovu3wPSdjQ"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "ifNyT0hE/tS8baKZvgcj/A==",
+        "b": "kH7mL6UExiNvTkZC",
+        "c": "jbG1YYhkT/yvBY53yKlQk1K3hC2ctoCbjMeImZT/MSYfXVlXQQ6GOMr2UbiTLv7i1aJHRb07h9qP7jbK0Y3eOG3ov2FOGpJvbw==",
+        "d": "B8VczQscIEi87viLA0Cosw==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "jWx+Q1UZuRJrGSLwi5HAhw==",
+        "bb": "iDItdGLxJGsiXbYg",
+        "cc": "Y8B7GYzK+Opr6g/NBDrhWX/O4r0jIw9UYZ0/jNB2Prq4uTDgU+ti19ovu3wPSdjQ"
+      }
+    }
+  ]
+}

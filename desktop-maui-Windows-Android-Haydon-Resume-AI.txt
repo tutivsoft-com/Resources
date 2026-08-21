@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/desktop-maui-Windows-Android-Haydon-Resume-AI-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/desktop-maui-Windows-Android-Haydon-Resume-AI-index.json",
+  "z": "inactive",
+  "h": "sha256:118babfc2c5614cbbeaadd90b8ee56599ae9fb363eae717b626f9d2add8f7d1d",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "chd7uhvleuih68R7lrKS8Q==",
+        "b": "/oGMsoDURW+Xx9li",
+        "c": "XZBXdKU1o+WCMCNgm5oYMupr8Pl+hlghEfnhE2Xm922yvDTDmmZjUiG6FYc4TvBvH5DPuk+U5DRSs/culWWb++JcM/0XOGdXtA==",
+        "d": "zZCmDhYv4BBtSuBIoRtRcQ==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "zpvWf4/fzZjZlwrJp3usGA==",
+        "bb": "BdcliELP98wZ1HWo",
+        "cc": "2PgFsYASkktTTwP0Qv3IWG9/kqXszqRWc4JnNkHGZlSkE2tj1tvsIbfqnKAQu8Ac"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "chd7uhvleuih68R7lrKS8Q==",
+        "b": "/oGMsoDURW+Xx9li",
+        "c": "XZBXdKU1o+WCMCNgm5oYMupr8Pl+hlghEfnhE2Xm922yvDTDmmZjUiG6FYc4TvBvH5DPuk+U5DRSs/culWWb++JcM/0XOGdXtA==",
+        "d": "zZCmDhYv4BBtSuBIoRtRcQ==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "zpvWf4/fzZjZlwrJp3usGA==",
+        "bb": "BdcliELP98wZ1HWo",
+        "cc": "2PgFsYASkktTTwP0Qv3IWG9/kqXszqRWc4JnNkHGZlSkE2tj1tvsIbfqnKAQu8Ac"
+      }
+    }
+  ]
+}

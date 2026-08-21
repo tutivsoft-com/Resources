@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/desktop-maui-Windows-Android-Snowdon-Meeting-AI-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/desktop-maui-Windows-Android-Snowdon-Meeting-AI-index.json",
+  "z": "inactive",
+  "h": "sha256:7644adf4827091ef1ba91aea2ea9be2f327500aaa6b232c814e2c859104b327c",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "GL6PCZkjAOZ47w9vsisYxA==",
+        "b": "MDGzFjHlDPgvCNRI",
+        "c": "Q1qwTQwpK7khplVM0npErjpse5E9XuHNGgz9SPVGcX7NcBhDHGQQf40bxhZ13iJVoFzFlkbTNmUcV39PI/IncwFvU45Hg5Fp0A==",
+        "d": "dItPlks/TRz4hTYEdNA7FQ==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "D+WetvOiQ8q+5pn6YkKBCg==",
+        "bb": "rUnVjdeM+N5z/3sU",
+        "cc": "fgHrIEHjSB941bg+pcrholCksv3TQFOryqCOuHBybjgn/GpIFlgXjhl7AQYLNmXL"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "GL6PCZkjAOZ47w9vsisYxA==",
+        "b": "MDGzFjHlDPgvCNRI",
+        "c": "Q1qwTQwpK7khplVM0npErjpse5E9XuHNGgz9SPVGcX7NcBhDHGQQf40bxhZ13iJVoFzFlkbTNmUcV39PI/IncwFvU45Hg5Fp0A==",
+        "d": "dItPlks/TRz4hTYEdNA7FQ==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "D+WetvOiQ8q+5pn6YkKBCg==",
+        "bb": "rUnVjdeM+N5z/3sU",
+        "cc": "fgHrIEHjSB941bg+pcrholCksv3TQFOryqCOuHBybjgn/GpIFlgXjhl7AQYLNmXL"
+      }
+    }
+  ]
+}

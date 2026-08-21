@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/tool-python-ai-marketing-claude-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/tool-python-ai-marketing-claude-index.json",
+  "z": "inactive",
+  "h": "sha256:fd6f1d92a9ae51ce7709e7fc916021049ddf5326f934832391a6c49b88451a5a",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "JmoKWF4E82UcMvuZ3pePyA==",
+        "b": "X5aQPvL7Ja4zTxkK",
+        "c": "XbV3WVGE3yptcyCE53rnfVNCj7FCdM/QqrGtDkJEkGKL7SOoD5KKxtGzObJGv5sqPfRYh1+oEegmxA33ULkFoflqXaPx2SSCcw==",
+        "d": "Lo5TI+VsoJmUkWR1wd9KuA==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "DX2SqPuxJ2bebH5TVXSJdg==",
+        "bb": "iZGXazL90hZNjAkc",
+        "cc": "3VtUhpujPvvAk3EPgg05k02Ph07JOIPTGFD71qa4hiwWQ33QCqaTMtMwpPDtbYKr"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "JmoKWF4E82UcMvuZ3pePyA==",
+        "b": "X5aQPvL7Ja4zTxkK",
+        "c": "XbV3WVGE3yptcyCE53rnfVNCj7FCdM/QqrGtDkJEkGKL7SOoD5KKxtGzObJGv5sqPfRYh1+oEegmxA33ULkFoflqXaPx2SSCcw==",
+        "d": "Lo5TI+VsoJmUkWR1wd9KuA==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "DX2SqPuxJ2bebH5TVXSJdg==",
+        "bb": "iZGXazL90hZNjAkc",
+        "cc": "3VtUhpujPvvAk3EPgg05k02Ph07JOIPTGFD71qa4hiwWQ33QCqaTMtMwpPDtbYKr"
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/Garda-Handwriting-Text-OCR-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/Garda-Handwriting-Text-OCR-index.json",
+  "z": "inactive",
+  "h": "sha256:f9ba452aee29951d066df851193d28623a617757b7ee6ccc74eb9d41250fd42c",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "QvZjgK+SALVA5mDvVStkyw==",
+        "b": "hGC0hc8m4VK1OW3n",
+        "c": "FnlThZAOuLdiDGF4Sq2v+CdXo4nLenTFJWRjYGrpqXoY3qGwyZ+l3oVpCcJhWIYfhB6k4Af+qtoTCrOfnr67dF3lYhFP4JdT1w==",
+        "d": "Kd94JQhet9ATAYh+gus9AQ==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "yUm7DG897TbKANiyrTqTsg==",
+        "bb": "yP9uMwShfS0lkxQo",
+        "cc": "+jVVhwfwXWhilQLRKLys3yORDmZIEyV7UbJOHNskvyKOVXmqNalKL7XfwGV7c0xH"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "QvZjgK+SALVA5mDvVStkyw==",
+        "b": "hGC0hc8m4VK1OW3n",
+        "c": "FnlThZAOuLdiDGF4Sq2v+CdXo4nLenTFJWRjYGrpqXoY3qGwyZ+l3oVpCcJhWIYfhB6k4Af+qtoTCrOfnr67dF3lYhFP4JdT1w==",
+        "d": "Kd94JQhet9ATAYh+gus9AQ==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "yUm7DG897TbKANiyrTqTsg==",
+        "bb": "yP9uMwShfS0lkxQo",
+        "cc": "+jVVhwfwXWhilQLRKLys3yORDmZIEyV7UbJOHNskvyKOVXmqNalKL7XfwGV7c0xH"
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/desktop-winui3-Windows-WinUI3-Sentinel-Photo-Organizer-AI-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/desktop-winui3-Windows-WinUI3-Sentinel-Photo-Organizer-AI-index.json",
+  "z": "inactive",
+  "h": "sha256:32b960f8d28ba33fb2018d82603520b67964b3cb24dbcb5ec9f9c58b64e3c2f5",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "2aHkNpFrSMhLVTNCCCzjTg==",
+        "b": "40JuxcTyTvEWyEZZ",
+        "c": "APFROTEVatjqnb9+FTuWB3LhiwdUACavafRTObI0sZ20BZSGX2Sr9E/+NvOxKWgBdmMR1n1rdwyk0wR+oIydcopc646lLTCrng==",
+        "d": "EWHRqB+9qb/gwHDuCHKR5g==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "SnF6GR9WAGR8Do6Mrxup7g==",
+        "bb": "+TU83VSB8T7i5mWg",
+        "cc": "U5DW5vOnAbQ27j3uqW10rJIELr1PsP5rC2Pw0KndVS06Hpx+6pwpnAiztEve82LK"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "2aHkNpFrSMhLVTNCCCzjTg==",
+        "b": "40JuxcTyTvEWyEZZ",
+        "c": "APFROTEVatjqnb9+FTuWB3LhiwdUACavafRTObI0sZ20BZSGX2Sr9E/+NvOxKWgBdmMR1n1rdwyk0wR+oIydcopc646lLTCrng==",
+        "d": "EWHRqB+9qb/gwHDuCHKR5g==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "SnF6GR9WAGR8Do6Mrxup7g==",
+        "bb": "+TU83VSB8T7i5mWg",
+        "cc": "U5DW5vOnAbQ27j3uqW10rJIELr1PsP5rC2Pw0KndVS06Hpx+6pwpnAiztEve82LK"
+      }
+    }
+  ]
+}

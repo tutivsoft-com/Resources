@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/desktop-winui3-Windows-WinUI3-Advanced-Productivity-Tracker-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/desktop-winui3-Windows-WinUI3-Advanced-Productivity-Tracker-index.json",
+  "z": "inactive",
+  "h": "sha256:0d3450ce8ed9731e6c2f493553548eb8c609c1fc8e1ad4ca835bed5372aa9b3c",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "3JJRRUyXBGRdl0GMHIpOng==",
+        "b": "hoshUj8TffoMm+yT",
+        "c": "229R7alVtp+rm2ozcCDQ9N5MX5oCKThYeNk0q3yOFoI4IohtpJRHVHCxf7N94t9YZeIv4b39pJquenHnv6iSdIkqLENddVcZzA==",
+        "d": "tMTFtxvPvaKQlUnH1nP1Vg==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "VD9GBPuUQG1qKiA6VjdIBA==",
+        "bb": "nZ5uProqccqxL7BG",
+        "cc": "gKleNC7GaZWARHOUSQhvd5asPXUwSkKIGs3MmYBu52+jTAICK2misIe92dfNbVll"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "3JJRRUyXBGRdl0GMHIpOng==",
+        "b": "hoshUj8TffoMm+yT",
+        "c": "229R7alVtp+rm2ozcCDQ9N5MX5oCKThYeNk0q3yOFoI4IohtpJRHVHCxf7N94t9YZeIv4b39pJquenHnv6iSdIkqLENddVcZzA==",
+        "d": "tMTFtxvPvaKQlUnH1nP1Vg==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "VD9GBPuUQG1qKiA6VjdIBA==",
+        "bb": "nZ5uProqccqxL7BG",
+        "cc": "gKleNC7GaZWARHOUSQhvd5asPXUwSkKIGs3MmYBu52+jTAICK2misIe92dfNbVll"
+      }
+    }
+  ]
+}

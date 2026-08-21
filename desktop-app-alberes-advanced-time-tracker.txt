@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/desktop-app-alberes-advanced-time-tracker-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/desktop-app-alberes-advanced-time-tracker-index.json",
+  "z": "inactive",
+  "h": "sha256:850cb72f8b62ce6185f63b2f929a628a1f7454baca4475bcd1fa5e20819c6819",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "Bfnn0NXlzXUDv1Zf0Ys7nA==",
+        "b": "BaU66/AWF+quCD2G",
+        "c": "3CYmKhOU3IeF43L9F1oHdWfVEwos1N5u8HHpWOGzN05Qm8I/PItgPhcoG5v3Ro1Nw1C+6NiNdWQ7kOB5Mneuf+4hcXQjBSwIfQ==",
+        "d": "DOWifBUOGf+QssLS+AO1MQ==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "CKh1yBaM3TumwyJkp7dzBA==",
+        "bb": "IVuzJJSNNnE4gMxs",
+        "cc": "XKZyLSCGZc1FDb4/xgv/2exoNYB+zHNPSPa/BG6MFY0ebG/DQSSshQhGbpeGGZx0"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "Bfnn0NXlzXUDv1Zf0Ys7nA==",
+        "b": "BaU66/AWF+quCD2G",
+        "c": "3CYmKhOU3IeF43L9F1oHdWfVEwos1N5u8HHpWOGzN05Qm8I/PItgPhcoG5v3Ro1Nw1C+6NiNdWQ7kOB5Mneuf+4hcXQjBSwIfQ==",
+        "d": "DOWifBUOGf+QssLS+AO1MQ==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "CKh1yBaM3TumwyJkp7dzBA==",
+        "bb": "IVuzJJSNNnE4gMxs",
+        "cc": "XKZyLSCGZc1FDb4/xgv/2exoNYB+zHNPSPa/BG6MFY0ebG/DQSSshQhGbpeGGZx0"
+      }
+    }
+  ]
+}

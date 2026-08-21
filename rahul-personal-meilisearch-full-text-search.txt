@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/rahul-personal-meilisearch-full-text-search-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/rahul-personal-meilisearch-full-text-search-index.json",
+  "z": "inactive",
+  "h": "sha256:1da494336917944bb5259be604c03f880940064de3d3bdfed70a2922388c6fe9",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "3adHhu4gJ14HdHzpHoJ5sQ==",
+        "b": "GNpKLtZtUFHEYZWv",
+        "c": "9syQRuaeKnGq/5rCdKz/XmQtGe/LRl74UcYz9PKu7H8uOPH37LJYoyL+6wquRcfXYRDfIwdNaIVPVY3jREPk3/JJ3WGn9XjvBA==",
+        "d": "e5hhwfABVnUMvOX83HAgiw==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "J5liyrAR7LIsa6IvrWCGBg==",
+        "bb": "M/Y0KTVlj3dGiIqF",
+        "cc": "GHnUrdfRB3fcLIVNDZZA1QQkc7LLiQhFDzOmti/epAIREyIq2WRTPmIOsR4HwqZf"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "3adHhu4gJ14HdHzpHoJ5sQ==",
+        "b": "GNpKLtZtUFHEYZWv",
+        "c": "9syQRuaeKnGq/5rCdKz/XmQtGe/LRl74UcYz9PKu7H8uOPH37LJYoyL+6wquRcfXYRDfIwdNaIVPVY3jREPk3/JJ3WGn9XjvBA==",
+        "d": "e5hhwfABVnUMvOX83HAgiw==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "J5liyrAR7LIsa6IvrWCGBg==",
+        "bb": "M/Y0KTVlj3dGiIqF",
+        "cc": "GHnUrdfRB3fcLIVNDZZA1QQkc7LLiQhFDzOmti/epAIREyIq2WRTPmIOsR4HwqZf"
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/desktop-app-Windows-Beacon-Video-Studio-AI-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/desktop-app-Windows-Beacon-Video-Studio-AI-index.json",
+  "z": "inactive",
+  "h": "sha256:e007dbf9270e32a7386032a4237d025e6113f585ab3e6652b702c10247f6dbe6",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "s4BH7xjDG/JeH4dF5lynqQ==",
+        "b": "tfXs/JhDPh4HdB99",
+        "c": "Y+rHklX0VCCFYdjAhrZalUQJw9sKZ/nbzkFezXpkP2/IWOKIZ4o0IonijZwLrDFG6HvfYN7TWoML/hYEuORVZL35OXpAdL2JQQ==",
+        "d": "3OGyh18iKv/WKZaUCC3RlA==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "H9rN9lfKktHSORTJDxp1LQ==",
+        "bb": "FFtTCZ/GH6LaaNgy",
+        "cc": "xRD6myseFIAY9ONldWocDRTDF4Qcm8nCPUM2xc35w7UwaC2tKLeE68KLJT+o8gYL"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "s4BH7xjDG/JeH4dF5lynqQ==",
+        "b": "tfXs/JhDPh4HdB99",
+        "c": "Y+rHklX0VCCFYdjAhrZalUQJw9sKZ/nbzkFezXpkP2/IWOKIZ4o0IonijZwLrDFG6HvfYN7TWoML/hYEuORVZL35OXpAdL2JQQ==",
+        "d": "3OGyh18iKv/WKZaUCC3RlA==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "H9rN9lfKktHSORTJDxp1LQ==",
+        "bb": "FFtTCZ/GH6LaaNgy",
+        "cc": "xRD6myseFIAY9ONldWocDRTDF4Qcm8nCPUM2xc35w7UwaC2tKLeE68KLJT+o8gYL"
+      }
+    }
+  ]
+}

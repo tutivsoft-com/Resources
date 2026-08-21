@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/basecamp-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/basecamp-index.json",
+  "z": "inactive",
+  "h": "sha256:8c540a1a776f1f8b77a79ce0d6e159a8531402e0cd58debd84cbae8f7a3877c6",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "yxMkPvd0oGLa6cN3ypgH6g==",
+        "b": "bxum0V7TfbvxLu1/",
+        "c": "wPABQ33M/Yh9v055gT+Gb1vgatV5TdpankGwe4opvQiaADnXYk7IQTaPmc78g4ugp39UUuWwEFg5KipCqH22cLSJuFM7SwLtiQ==",
+        "d": "ES18ToCJwBIz5RCfLNuWVg==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "ODQJ8+LRoH6SMzROaotZ+w==",
+        "bb": "4u42qp9nU408ci7l",
+        "cc": "LWz2qvLlku8QUJXxc6XptsLLfi6PVHgF6RUE8pSLKixJKXkpBKhjVH6k161p+b+g"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "yxMkPvd0oGLa6cN3ypgH6g==",
+        "b": "bxum0V7TfbvxLu1/",
+        "c": "wPABQ33M/Yh9v055gT+Gb1vgatV5TdpankGwe4opvQiaADnXYk7IQTaPmc78g4ugp39UUuWwEFg5KipCqH22cLSJuFM7SwLtiQ==",
+        "d": "ES18ToCJwBIz5RCfLNuWVg==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "ODQJ8+LRoH6SMzROaotZ+w==",
+        "bb": "4u42qp9nU408ci7l",
+        "cc": "LWz2qvLlku8QUJXxc6XptsLLfi6PVHgF6RUE8pSLKixJKXkpBKhjVH6k161p+b+g"
+      }
+    }
+  ]
+}

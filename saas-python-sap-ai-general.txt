@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/saas-python-sap-ai-general-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/saas-python-sap-ai-general-index.json",
+  "z": "inactive",
+  "h": "sha256:734ac4ce9877af5ac33a9a9aa48bbdfcf53f77709d84939d12ca6eb2ce0448fa",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "pcpaqx/2/cWRptsLARgPgw==",
+        "b": "y7Dk1EcoFsmx04wz",
+        "c": "Y+HR5bh7sEBifEvi2nF0ZRd6S4+cWHr5j8YVUKX189SbKNs+aHpLgmbhoQKfZ+C6bkuVL3tIOkHcmjSQxGVkBsBu5NtXDh+r+w==",
+        "d": "weyZwHyNgLCa0PFHu3bx+w==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "9JUp6av1gEUZtewhYliB+A==",
+        "bb": "WIzwxjX/gf01yJGn",
+        "cc": "bnw08xarjay5ITG0O4KcigCMzRbUVfxJ6XgRcKDyfwwg1xODlV83mUlc8L8ApTh2"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "pcpaqx/2/cWRptsLARgPgw==",
+        "b": "y7Dk1EcoFsmx04wz",
+        "c": "Y+HR5bh7sEBifEvi2nF0ZRd6S4+cWHr5j8YVUKX189SbKNs+aHpLgmbhoQKfZ+C6bkuVL3tIOkHcmjSQxGVkBsBu5NtXDh+r+w==",
+        "d": "weyZwHyNgLCa0PFHu3bx+w==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "9JUp6av1gEUZtewhYliB+A==",
+        "bb": "WIzwxjX/gf01yJGn",
+        "cc": "bnw08xarjay5ITG0O4KcigCMzRbUVfxJ6XgRcKDyfwwg1xODlV83mUlc8L8ApTh2"
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/saas-python-aoire-sap-sales-ai-analyzer-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/saas-python-aoire-sap-sales-ai-analyzer-index.json",
+  "z": "inactive",
+  "h": "sha256:40f1744151318a514863270d499c0cafe75e7f57717673c7e63ffce3561df647",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "GLZzcFrMaGm4u3H/NsMvIg==",
+        "b": "zduR20grYBLgD3nu",
+        "c": "5UnNxx39fINZp7g+SWIY62BWDHqaoIfs/0oBvEscnxNLhsrbvlDNKa4LvumKCTPkZzZkWSa3ndsG4s7YurttxUImtvfdm4WEnQ==",
+        "d": "ppb/p9k8bfEciggNaQ2BtQ==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "DjKmouexOuMfovKrR9w1cg==",
+        "bb": "IstUdHlALJt1F3xr",
+        "cc": "sIQFZqTR50zVhbhaK+nkFNsRrAC9nF4L2IbpN/Ayg34iu8EAz+78DZk1CFCuZHxM"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "GLZzcFrMaGm4u3H/NsMvIg==",
+        "b": "zduR20grYBLgD3nu",
+        "c": "5UnNxx39fINZp7g+SWIY62BWDHqaoIfs/0oBvEscnxNLhsrbvlDNKa4LvumKCTPkZzZkWSa3ndsG4s7YurttxUImtvfdm4WEnQ==",
+        "d": "ppb/p9k8bfEciggNaQ2BtQ==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "DjKmouexOuMfovKrR9w1cg==",
+        "bb": "IstUdHlALJt1F3xr",
+        "cc": "sIQFZqTR50zVhbhaK+nkFNsRrAC9nF4L2IbpN/Ayg34iu8EAz+78DZk1CFCuZHxM"
+      }
+    }
+  ]
+}

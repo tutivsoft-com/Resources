@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/saas-python-Cumulus-AI-ChatGPT-Gemini-Markdown-Convert-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/saas-python-Cumulus-AI-ChatGPT-Gemini-Markdown-Convert-index.json",
+  "z": "inactive",
+  "h": "sha256:7e3eaf297c8f86df38faa080130ac7a6f873808165c1d56821b5f1d1e41fa991",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "a4gAJO+k1yuA3XCL6nFQnQ==",
+        "b": "+Dy7GwhwADPZQilk",
+        "c": "alGNtndz5+CANAkVGEaUgkGatKYGiyEWo2XKylJPOhGKxvGMmGkAk3BzrKD8wRMTzadOVBYyQqbjKMT8U4Q+1TSBn+9MMkRnyw==",
+        "d": "PtfcyQ03/k7oU/DSA5LBAA==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "vEBKvf87zozVkW39kNPcnQ==",
+        "bb": "gBxDBbmsBJr9aiYv",
+        "cc": "emE0k/xfO8HGVEzTN8EW5CRRoR+TXdxm4uGaDtbo/a80jJPJXpGvpPY1uKJiaW7E"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "a4gAJO+k1yuA3XCL6nFQnQ==",
+        "b": "+Dy7GwhwADPZQilk",
+        "c": "alGNtndz5+CANAkVGEaUgkGatKYGiyEWo2XKylJPOhGKxvGMmGkAk3BzrKD8wRMTzadOVBYyQqbjKMT8U4Q+1TSBn+9MMkRnyw==",
+        "d": "PtfcyQ03/k7oU/DSA5LBAA==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "vEBKvf87zozVkW39kNPcnQ==",
+        "bb": "gBxDBbmsBJr9aiYv",
+        "cc": "emE0k/xfO8HGVEzTN8EW5CRRoR+TXdxm4uGaDtbo/a80jJPJXpGvpPY1uKJiaW7E"
+      }
+    }
+  ]
+}

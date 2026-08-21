@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/karone-llm-ai-model-intelligence-scores-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/karone-llm-ai-model-intelligence-scores-index.json",
+  "z": "inactive",
+  "h": "sha256:55964133a6aac5032cd9e0ae0be3f7583cddf2f38fa3db85ab93fbfec0bcb71d",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "LPRK5sDP4s5iuVvnB5mP+Q==",
+        "b": "kXjMDI9kmpgska9K",
+        "c": "/9A1aE4fnY1BjVCQbfipKMB7dkggdG3aOfNjjW+ywK10agGcE6lR1Fc7LQUya2yEHzIPksAU/u1VP5wH/BoSoD4ucEPWcSPq4g==",
+        "d": "zxN5UoIi0Csj17oTVwsCCQ==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "+ohy8Mg6RSJAX9lNDcVXbQ==",
+        "bb": "XPpw+7iqs90kAi2+",
+        "cc": "tnjZMBXaBK3PnPgmoj5tlHqr45PUfJP1b4P2KXEkQSIt6SS+3W34V1EY1WVnZBt6"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "LPRK5sDP4s5iuVvnB5mP+Q==",
+        "b": "kXjMDI9kmpgska9K",
+        "c": "/9A1aE4fnY1BjVCQbfipKMB7dkggdG3aOfNjjW+ywK10agGcE6lR1Fc7LQUya2yEHzIPksAU/u1VP5wH/BoSoD4ucEPWcSPq4g==",
+        "d": "zxN5UoIi0Csj17oTVwsCCQ==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "+ohy8Mg6RSJAX9lNDcVXbQ==",
+        "bb": "XPpw+7iqs90kAi2+",
+        "cc": "tnjZMBXaBK3PnPgmoj5tlHqr45PUfJP1b4P2KXEkQSIt6SS+3W34V1EY1WVnZBt6"
+      }
+    }
+  ]
+}

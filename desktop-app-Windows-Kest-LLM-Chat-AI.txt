@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/desktop-app-Windows-Kest-LLM-Chat-AI-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/desktop-app-Windows-Kest-LLM-Chat-AI-index.json",
+  "z": "inactive",
+  "h": "sha256:7995c487ad98163f3e86d0895415e31bb980037d03c7340d0b79ae6635b07775",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "w7cjtYzQhpnn09+MGgBEVg==",
+        "b": "WX9HiOE7kaEfHSn+",
+        "c": "g+qa6VCY+xA92cjf9CvwhafsiCQHQgcDUdcK+N7Ma3mrtbzUEmfrEpbA7hEpnPIn+zoORTv2Pizyfhv9qYx31zdgG6SewvVDNA==",
+        "d": "7jn4/tXZpgVdE1eIb98nbA==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "lWdvuV6TBZ8cE/DjH589CQ==",
+        "bb": "1PFdwgdijy9VzQTF",
+        "cc": "c9hqErkKR5MxahBwR/pLRX25am6VEGsquIoh+0k9vpsm7xmCvJQJEZc2SWHvqLCi"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "w7cjtYzQhpnn09+MGgBEVg==",
+        "b": "WX9HiOE7kaEfHSn+",
+        "c": "g+qa6VCY+xA92cjf9CvwhafsiCQHQgcDUdcK+N7Ma3mrtbzUEmfrEpbA7hEpnPIn+zoORTv2Pizyfhv9qYx31zdgG6SewvVDNA==",
+        "d": "7jn4/tXZpgVdE1eIb98nbA==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "lWdvuV6TBZ8cE/DjH589CQ==",
+        "bb": "1PFdwgdijy9VzQTF",
+        "cc": "c9hqErkKR5MxahBwR/pLRX25am6VEGsquIoh+0k9vpsm7xmCvJQJEZc2SWHvqLCi"
+      }
+    }
+  ]
+}

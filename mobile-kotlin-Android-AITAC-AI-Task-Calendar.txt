@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/mobile-kotlin-Android-AITAC-AI-Task-Calendar-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/mobile-kotlin-Android-AITAC-AI-Task-Calendar-index.json",
+  "z": "inactive",
+  "h": "sha256:acbc89fe3acae951dc5abe90d63efacc214c4c3b60f6028d569c3f808744ceaa",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "kWurGpVvSRej49JTj32wag==",
+        "b": "YRzhnYflMROIId4T",
+        "c": "wVyCKsMSPQ/tV9EV4J5kcQlrK+Q1A/41CFSSKIRw9b3O+nGOEFhMamhzZllDFZVe2Z5dvjDshqNgyJXxw8lmUCk9yqOO+86kVA==",
+        "d": "A6qFCDxTMGivnhBfApmNvw==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "by3eVwNLtgsvxjQ6neWVow==",
+        "bb": "6w5U4HkTJiWAv2lj",
+        "cc": "Z/FFmCcIjik3HojWQ4oltZurzmjZ+TeY3ZWm9E93l76h8hdMeEjwr9M39LjsqDnS"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "kWurGpVvSRej49JTj32wag==",
+        "b": "YRzhnYflMROIId4T",
+        "c": "wVyCKsMSPQ/tV9EV4J5kcQlrK+Q1A/41CFSSKIRw9b3O+nGOEFhMamhzZllDFZVe2Z5dvjDshqNgyJXxw8lmUCk9yqOO+86kVA==",
+        "d": "A6qFCDxTMGivnhBfApmNvw==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "by3eVwNLtgsvxjQ6neWVow==",
+        "bb": "6w5U4HkTJiWAv2lj",
+        "cc": "Z/FFmCcIjik3HojWQ4oltZurzmjZ+TeY3ZWm9E93l76h8hdMeEjwr9M39LjsqDnS"
+      }
+    }
+  ]
+}

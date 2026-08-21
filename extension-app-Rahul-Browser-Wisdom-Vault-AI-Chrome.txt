@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/extension-app-Rahul-Browser-Wisdom-Vault-AI-Chrome-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/extension-app-Rahul-Browser-Wisdom-Vault-AI-Chrome-index.json",
+  "z": "inactive",
+  "h": "sha256:fc96778ff369c250a9686a55b16a3d9906f85f999eca39bf72a98dc56d7145be",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "g8tikg8CsDIRCzMDf5epoA==",
+        "b": "Z+CM9rhC9Tsnt9/E",
+        "c": "mDcyso7+/VxHOIGFGE9xqtLg1+OKowvzJMS+13k+CzWec1BKWNr84BlbOFd6L7VVNBA/leWxAQWaX2I6Z0vgvjfPGmpzLgKKIA==",
+        "d": "l3ELtDXnwzXBt2FFRfxIVQ==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "q7DW6k9DDAa5VByQlEb8Hg==",
+        "bb": "u9yfvjU3uQ9dO4z0",
+        "cc": "v+PEjvW9EjQYZ//Zjyx4QAaq2UJpHm/lQQMpnH89iB9D9Cn3NeGXbqOgr6lLoyme"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "g8tikg8CsDIRCzMDf5epoA==",
+        "b": "Z+CM9rhC9Tsnt9/E",
+        "c": "mDcyso7+/VxHOIGFGE9xqtLg1+OKowvzJMS+13k+CzWec1BKWNr84BlbOFd6L7VVNBA/leWxAQWaX2I6Z0vgvjfPGmpzLgKKIA==",
+        "d": "l3ELtDXnwzXBt2FFRfxIVQ==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "q7DW6k9DDAa5VByQlEb8Hg==",
+        "bb": "u9yfvjU3uQ9dO4z0",
+        "cc": "v+PEjvW9EjQYZ//Zjyx4QAaq2UJpHm/lQQMpnH89iB9D9Cn3NeGXbqOgr6lLoyme"
+      }
+    }
+  ]
+}

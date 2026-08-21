@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/desktop-app-Windows-Laurel-Bookkeeping-Accounting-Invoicing-AI-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/desktop-app-Windows-Laurel-Bookkeeping-Accounting-Invoicing-AI-index.json",
+  "z": "inactive",
+  "h": "sha256:4ae9c62ffb39395f54e319f993f91aebb3f6b144aee702958fb2ad134643ee52",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "MJ6KguNIHX0UmRCvbRxxjA==",
+        "b": "uhQ1qJY1bWtqgllU",
+        "c": "Aza71SE8HwCV4PFjLRsmSpRFRkyg6BMVypfjCqjrPpqNwanAGmvTNpN87qSkQALcOgIgp8KC9kSbgp54QxJTW1fbpuzhnX450Q==",
+        "d": "hmjiHoECYXrUy60Hri6gzw==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "uhT2gC02K0Nm0zxLq1xulw==",
+        "bb": "ORmGhhvk8Y4Mdwov",
+        "cc": "K7zEiBeoNNsbSdgU2cXivlwUQE282pn7XMX42TDo6yAu4Z6Halg12DG5F8ReChE1"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "MJ6KguNIHX0UmRCvbRxxjA==",
+        "b": "uhQ1qJY1bWtqgllU",
+        "c": "Aza71SE8HwCV4PFjLRsmSpRFRkyg6BMVypfjCqjrPpqNwanAGmvTNpN87qSkQALcOgIgp8KC9kSbgp54QxJTW1fbpuzhnX450Q==",
+        "d": "hmjiHoECYXrUy60Hri6gzw==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "uhT2gC02K0Nm0zxLq1xulw==",
+        "bb": "ORmGhhvk8Y4Mdwov",
+        "cc": "K7zEiBeoNNsbSdgU2cXivlwUQE282pn7XMX42TDo6yAu4Z6Halg12DG5F8ReChE1"
+      }
+    }
+  ]
+}
