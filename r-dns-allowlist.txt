@@ -2,3 +2,5 @@ chatgpt.com
 ab.chatgpt.com
 linkedin.com
 appcloud.cyou
+play.google.com
+google.com
