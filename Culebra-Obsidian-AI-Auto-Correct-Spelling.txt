@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/Culebra-Obsidian-AI-Auto-Correct-Spelling-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/Culebra-Obsidian-AI-Auto-Correct-Spelling-index.json",
+  "z": "inactive",
+  "h": "sha256:c1fc5e84b44b348d56ffbc1b0595be4002a5b0c10fb0d44683125a107da79743",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "mT/OcG5IZR0OyXZu1leUxw==",
+        "b": "+6gWqBNxH38aWjBX",
+        "c": "4HxtnvHdQWur3zVUHUsPDNi6RELADz4//l0wqTw/WPXvdP+yPhZ163LI0oIN76RCZRxGo1sT8xiSVWjrU0Li9JLe7J7UA5dkBA==",
+        "d": "bQJ0i5UUx94P/WFTWa+Zrw==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "D92FgtBB0h2CclVpdSKNVA==",
+        "bb": "xnjlI4pC0PYEbvJh",
+        "cc": "+lc2o+CDf4d08vSxWd1p2G6CD0DVn9bnOZYWDlI/E1Oafverk2l+KCYW3WAL99dU"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "mT/OcG5IZR0OyXZu1leUxw==",
+        "b": "+6gWqBNxH38aWjBX",
+        "c": "4HxtnvHdQWur3zVUHUsPDNi6RELADz4//l0wqTw/WPXvdP+yPhZ163LI0oIN76RCZRxGo1sT8xiSVWjrU0Li9JLe7J7UA5dkBA==",
+        "d": "bQJ0i5UUx94P/WFTWa+Zrw==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "D92FgtBB0h2CclVpdSKNVA==",
+        "bb": "xnjlI4pC0PYEbvJh",
+        "cc": "+lc2o+CDf4d08vSxWd1p2G6CD0DVn9bnOZYWDlI/E1Oafverk2l+KCYW3WAL99dU"
+      }
+    }
+  ]
+}

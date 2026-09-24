@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/Denali-AI-Renamer-and-Front-Matter-Obsidian-public-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/Denali-AI-Renamer-and-Front-Matter-Obsidian-public-index.json",
+  "z": "inactive",
+  "h": "sha256:405ee3eda4e101f2d0d92d5f0c432869575cf84f4a3438c93e0b6123ad41f257",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "RGcQrBsxtngyK3Hsmzw57w==",
+        "b": "ci4nCyW+nA4y92mT",
+        "c": "SGqiyczksjBlG4DrvGd/lBeRLAUPB0KVOk64X4OWfeEb5w04vkFl1bwfp8FuMGHLuYCB6QPpf+aWzp4wF9053h6GvoBzp6FGXw==",
+        "d": "RuMDXjftz7DUSXg8SCSEXA==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "pXwLlL/fyFVrjdLnfBB1fQ==",
+        "bb": "aBuD/A1WS/Su8pbr",
+        "cc": "ssB3ARpzCFMgNQ0fmluvB9iUGD+3xGdReih7wniLFok/E2oJK8s+KVqvpgF66pu8"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "RGcQrBsxtngyK3Hsmzw57w==",
+        "b": "ci4nCyW+nA4y92mT",
+        "c": "SGqiyczksjBlG4DrvGd/lBeRLAUPB0KVOk64X4OWfeEb5w04vkFl1bwfp8FuMGHLuYCB6QPpf+aWzp4wF9053h6GvoBzp6FGXw==",
+        "d": "RuMDXjftz7DUSXg8SCSEXA==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "pXwLlL/fyFVrjdLnfBB1fQ==",
+        "bb": "aBuD/A1WS/Su8pbr",
+        "cc": "ssB3ARpzCFMgNQ0fmluvB9iUGD+3xGdReih7wniLFok/E2oJK8s+KVqvpgF66pu8"
+      }
+    }
+  ]
+}

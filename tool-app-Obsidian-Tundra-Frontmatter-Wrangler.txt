@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/tool-app-Obsidian-Tundra-Frontmatter-Wrangler-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/tool-app-Obsidian-Tundra-Frontmatter-Wrangler-index.json",
+  "z": "inactive",
+  "h": "sha256:339cf68e1eecd438c02e4eeb21f2dd5d4149e15b62cab243afbfb07e6f547c32",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "loTf7uDgDGYdJnFZNg+EDg==",
+        "b": "mILXqjOLrOkfNsoL",
+        "c": "5bJ/scbpjdtHc1YxuOXqYK0FIuTi19c/ujSgz06NJy54Ettf9wG8FeyW1rt8vwVhdP+ddFufAm3ex6PuGSm+NwmrHfRbYhL/Kw==",
+        "d": "63ZXfH+sckbUYo0CSnLY0w==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "BtQBa1MRLf83D4bkfOSICw==",
+        "bb": "QM55Pl4M/3njAcaw",
+        "cc": "lGgC5ofQ2wuTvNM7jIguRe8CGkpHw9l9yKa366P550hxTvDgxglmjJ7J+4Tur6Dw"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "loTf7uDgDGYdJnFZNg+EDg==",
+        "b": "mILXqjOLrOkfNsoL",
+        "c": "5bJ/scbpjdtHc1YxuOXqYK0FIuTi19c/ujSgz06NJy54Ettf9wG8FeyW1rt8vwVhdP+ddFufAm3ex6PuGSm+NwmrHfRbYhL/Kw==",
+        "d": "63ZXfH+sckbUYo0CSnLY0w==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "BtQBa1MRLf83D4bkfOSICw==",
+        "bb": "QM55Pl4M/3njAcaw",
+        "cc": "lGgC5ofQ2wuTvNM7jIguRe8CGkpHw9l9yKa366P550hxTvDgxglmjJ7J+4Tur6Dw"
+      }
+    }
+  ]
+}
