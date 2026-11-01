@@ -1,0 +1,1 @@
+{"m":1,"r":[{"i":"hudson-auto-organizer-ai-2026-11-01","ii":"active","s":"0","v":{"q":1,"x":"AES-256-GCM","w":"PBKDF2-HMAC-SHA256","n":210000,"a":"Y/J4ha1E1IdVFuorvRl59g==","b":"Le9aCzOgdEsio3uP","c":"7jH6VAau/R8PHln+mjDZW1fF1705kxh5jeaDaLhIe9Uib+mM1DYqla3y6GDy02Otd4oWO+9jd2KE3jqtN6lnV9idimw/C6jC8w==","d":"eno2Ymniil5Wlrops6tGCg=="}}]}
