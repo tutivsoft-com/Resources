@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/ausangate-server-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/ausangate-server-index.json",
+  "z": "inactive",
+  "h": "sha256:90fff9114915c14a0330e9e305b2e6d931b4bc6a05fae4a203cfc6b926c375f2",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "hUeZ3TopXKOYSmhezsPqzA==",
+        "b": "BrcUiW9GaEAxRtME",
+        "c": "sJzneyN5K5D26f5cMxRohMCUbroeOBIbWX7U0/y3jSHkCl6jQjoHhSY1qKRtCpouBN0DdZybUBY9a73NTHYw0kGaV6iwzabbNw==",
+        "d": "P+jnf3dkSApBnKLKFLA/Uw==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "s2FNHeQfwjibPKywsvWdfQ==",
+        "bb": "YvWj+gNQhC280OCG",
+        "cc": "kLTNe8AfmGptKvYX8pw2xcDMDHXDu/h5bVm1oX/MwlR1h1mXj1Iux7fh4d6DxBCe"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "hUeZ3TopXKOYSmhezsPqzA==",
+        "b": "BrcUiW9GaEAxRtME",
+        "c": "sJzneyN5K5D26f5cMxRohMCUbroeOBIbWX7U0/y3jSHkCl6jQjoHhSY1qKRtCpouBN0DdZybUBY9a73NTHYw0kGaV6iwzabbNw==",
+        "d": "P+jnf3dkSApBnKLKFLA/Uw==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "s2FNHeQfwjibPKywsvWdfQ==",
+        "bb": "YvWj+gNQhC280OCG",
+        "cc": "kLTNe8AfmGptKvYX8pw2xcDMDHXDu/h5bVm1oX/MwlR1h1mXj1Iux7fh4d6DxBCe"
+      }
+    }
+  ]
+}

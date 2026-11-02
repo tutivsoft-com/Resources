@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/kneiff-firebase-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/kneiff-firebase-index.json",
+  "z": "inactive",
+  "h": "sha256:35cccb9c9246d4909cc718f9c6d67d9b010a0acc5842216e68980239122372fe",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "LXjwEuxhwEb4NNYykla4Uw==",
+        "b": "ArWKTTZuh7CsBzz+",
+        "c": "jOpjY7JAaIlVK0XRMHJcxS0zC8wNfS51rvNSCiyH59llj+3/mGYE/ge4ac7cMdC/+RKR6eQpCyfPY7+nYmAk+Z1tiDt2AbSlNA==",
+        "d": "+hzZ5XbmT7myeN4EWpfqkA==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "I6UyT1ZiQYG0jV9OulicKA==",
+        "bb": "4B9q6wD+/kLnAeOj",
+        "cc": "kp9bN82rwOFF66Sw+y6ju4naj+e5YW2FS6NuHeKTN+WjjEUB5Kw3X6qJlBNl4mhN"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "LXjwEuxhwEb4NNYykla4Uw==",
+        "b": "ArWKTTZuh7CsBzz+",
+        "c": "jOpjY7JAaIlVK0XRMHJcxS0zC8wNfS51rvNSCiyH59llj+3/mGYE/ge4ac7cMdC/+RKR6eQpCyfPY7+nYmAk+Z1tiDt2AbSlNA==",
+        "d": "+hzZ5XbmT7myeN4EWpfqkA==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "I6UyT1ZiQYG0jV9OulicKA==",
+        "bb": "4B9q6wD+/kLnAeOj",
+        "cc": "kp9bN82rwOFF66Sw+y6ju4naj+e5YW2FS6NuHeKTN+WjjEUB5Kw3X6qJlBNl4mhN"
+      }
+    }
+  ]
+}

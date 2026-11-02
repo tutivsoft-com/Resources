@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/fuji-server-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/fuji-server-index.json",
+  "z": "inactive",
+  "h": "sha256:1a6da22f9b4dc74ca3dbe4bf8b4bf098c062929c6474992db59f7a38ce91d4a4",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "isDs26wxnld2N5uyGgd3yg==",
+        "b": "Tba0ANLe2MIoZ14+",
+        "c": "m2h+R/QF8FIQ2Q8fNQSVNPCC1X66G5JiGAaKkh6xrJzQSiMXm4WHztH8s469/o0DHnPJMV2UG1MupXyDrf1q/mbFS2HJVXV7Vg==",
+        "d": "sET+pfPE7lMC8x+zHJiRjg==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "MFDSomvxhOpYQ9RW1louXw==",
+        "bb": "+EGoUWhpuTHuLN+K",
+        "cc": "ejri04kzACxGIY6RUR62jDlHJeIrNXTtwx51Zs7q3aVZ7CqyrRfAsHn13QoXAsn/"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "isDs26wxnld2N5uyGgd3yg==",
+        "b": "Tba0ANLe2MIoZ14+",
+        "c": "m2h+R/QF8FIQ2Q8fNQSVNPCC1X66G5JiGAaKkh6xrJzQSiMXm4WHztH8s469/o0DHnPJMV2UG1MupXyDrf1q/mbFS2HJVXV7Vg==",
+        "d": "sET+pfPE7lMC8x+zHJiRjg==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "MFDSomvxhOpYQ9RW1louXw==",
+        "bb": "+EGoUWhpuTHuLN+K",
+        "cc": "ejri04kzACxGIY6RUR62jDlHJeIrNXTtwx51Zs7q3aVZ7CqyrRfAsHn13QoXAsn/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/horologium-server-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/horologium-server-index.json",
+  "z": "inactive",
+  "h": "sha256:bee378f0137f0bcedfaec2dd8c60219799dbbe6174d6c484d2ee5ebdc9d29132",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "qNCs07XQYcxNJxBpGZASHw==",
+        "b": "z9tyZGIACIn450w2",
+        "c": "MGS+6m4Xvwdc/IUV8BVh1rEXunlL/8rPATaRGlMX1dZeUyPDgA6txOrfDHI2/IMpd1usO/C29xJw2KUZ3notyyhPAUc/9Ob9Hw==",
+        "d": "iEjOdv/gGErHGlhIzdv7OA==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "vkOUJODFqbIvTnUpFOF1qA==",
+        "bb": "S9hVG15u63QCbCJz",
+        "cc": "HYR6sFvmcxFue4Z3gs8v4/Xx2R1V2kqLn4Ccj7rKKlq02vCjfhcj2ObZ/sDNr9oz"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "qNCs07XQYcxNJxBpGZASHw==",
+        "b": "z9tyZGIACIn450w2",
+        "c": "MGS+6m4Xvwdc/IUV8BVh1rEXunlL/8rPATaRGlMX1dZeUyPDgA6txOrfDHI2/IMpd1usO/C29xJw2KUZ3notyyhPAUc/9Ob9Hw==",
+        "d": "iEjOdv/gGErHGlhIzdv7OA==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "vkOUJODFqbIvTnUpFOF1qA==",
+        "bb": "S9hVG15u63QCbCJz",
+        "cc": "HYR6sFvmcxFue4Z3gs8v4/Xx2R1V2kqLn4Ccj7rKKlq02vCjfhcj2ObZ/sDNr9oz"
+      }
+    }
+  ]
+}

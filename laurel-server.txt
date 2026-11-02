@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/laurel-server-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/laurel-server-index.json",
+  "z": "inactive",
+  "h": "sha256:e75b88d4593cb9bdd7634fab275784c22f20e15bb1bb9fd03b3d4057ec0878a4",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "RJD6i7EJ2N/jECr6UuR+AQ==",
+        "b": "HCLrmBFAabHHUGTB",
+        "c": "h6KNQJffzc1JQcmnujQWPwTH1vm9soqcQ7dWm2XPv7i2t2OAQKu2DxyGfwQD+oT+WheiSRrki4KPZG8lBzRVfjAmt78ZxS/EHA==",
+        "d": "lsjCZ95MTZIiCu8RyIK0Fg==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "7NrXo6X2YK10Rg10a4vIqA==",
+        "bb": "67We2vMqi5T743Sj",
+        "cc": "lle7nNsXlpco3YjSN8j8MlJJBMazU26jg2jKuk8CYCalfiPVFdy1LZF5nxPZevSP"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "RJD6i7EJ2N/jECr6UuR+AQ==",
+        "b": "HCLrmBFAabHHUGTB",
+        "c": "h6KNQJffzc1JQcmnujQWPwTH1vm9soqcQ7dWm2XPv7i2t2OAQKu2DxyGfwQD+oT+WheiSRrki4KPZG8lBzRVfjAmt78ZxS/EHA==",
+        "d": "lsjCZ95MTZIiCu8RyIK0Fg==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "7NrXo6X2YK10Rg10a4vIqA==",
+        "bb": "67We2vMqi5T743Sj",
+        "cc": "lle7nNsXlpco3YjSN8j8MlJJBMazU26jg2jKuk8CYCalfiPVFdy1LZF5nxPZevSP"
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/python-forum-server-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/python-forum-server-index.json",
+  "z": "inactive",
+  "h": "sha256:caa4f7f38b42b4fa7d009aea9a9455af68703de4dab24de19920dd383fe05535",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "h429BYPPXBDAxBPmt5vyMA==",
+        "b": "xbScm7RNkcgboP3X",
+        "c": "/oNKtYHhyhq5M1OER+EQJlR1O0XDAPei4oAlqn1Lrs4RhEgch5kUnhi+BI8RdH2ia7tXpR7W92c3v187s7VQHEcdmMS2duUXmA==",
+        "d": "3Gb0A6FTd2APc2jnppQvGg==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "DjHnIe/gjEkZcQ/vUPOqig==",
+        "bb": "ktzOpmBbBwkzbWCB",
+        "cc": "h7ASw+XCttmjSKUluirBY6r2FywPR/dIa+DHrsUGkPg17ErxZmAZjma8yLA0J83R"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "h429BYPPXBDAxBPmt5vyMA==",
+        "b": "xbScm7RNkcgboP3X",
+        "c": "/oNKtYHhyhq5M1OER+EQJlR1O0XDAPei4oAlqn1Lrs4RhEgch5kUnhi+BI8RdH2ia7tXpR7W92c3v187s7VQHEcdmMS2duUXmA==",
+        "d": "3Gb0A6FTd2APc2jnppQvGg==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "DjHnIe/gjEkZcQ/vUPOqig==",
+        "bb": "ktzOpmBbBwkzbWCB",
+        "cc": "h7ASw+XCttmjSKUluirBY6r2FywPR/dIa+DHrsUGkPg17ErxZmAZjma8yLA0J83R"
+      }
+    }
+  ]
+}

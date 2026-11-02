@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/movie-dialouge-android-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/movie-dialouge-android-index.json",
+  "z": "inactive",
+  "h": "sha256:6223554b01e14a43a907aae94dfddeabd90386be2e508b5c09bfbbd34a5b3cdb",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "sANLIFgA6Pt02vWw5Pt+ug==",
+        "b": "vkcgcKypkTQCRiyf",
+        "c": "LMS5QwIgVe/jW2AI0KEX+x+V+c2hbtDWnLZMEJMQLag6wcZ3D5PufkxqTlSwbuc/hPVUoeNiT60C7fWwAYjhk3P/CGJxqO78Dw==",
+        "d": "QDgDy+nQgm3ZhW6WPIP4MQ==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "Rd3rIidalVN1kR2rRDHj0A==",
+        "bb": "nQVus+hjR3tdiwQc",
+        "cc": "vVHtUaM6We3o52Y5oyIVC0WQ1onaouo+C/h7qYBnW53azl6uxZhuzKZzjZhfrdS7"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "sANLIFgA6Pt02vWw5Pt+ug==",
+        "b": "vkcgcKypkTQCRiyf",
+        "c": "LMS5QwIgVe/jW2AI0KEX+x+V+c2hbtDWnLZMEJMQLag6wcZ3D5PufkxqTlSwbuc/hPVUoeNiT60C7fWwAYjhk3P/CGJxqO78Dw==",
+        "d": "QDgDy+nQgm3ZhW6WPIP4MQ==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "Rd3rIidalVN1kR2rRDHj0A==",
+        "bb": "nQVus+hjR3tdiwQc",
+        "cc": "vVHtUaM6We3o52Y5oyIVC0WQ1onaouo+C/h7qYBnW53azl6uxZhuzKZzjZhfrdS7"
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/soniox-transcript-enrichment-cli-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/soniox-transcript-enrichment-cli-index.json",
+  "z": "inactive",
+  "h": "sha256:add2366c2e4e7740d974eae8a1fa329950d6bac32c530c6105db4e762aa10cfb",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "Ajs6tIQm2VfZkGAO0v0iHg==",
+        "b": "0JqGDrxQofmiUujM",
+        "c": "lFT5ti99Z+HjJXQ1TEKj3QEkApXgnh841PSAexIAG+puMLbDcjghECdVb2Yc4/ZHeJ3kCplUD0s0IjijDokqpL7aaWRPv3KGMA==",
+        "d": "tDOOmJwVjY2C8pGtrZJv1A==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "/wHVtUWBjYPVdnska3/XsA==",
+        "bb": "NOqWUdBtL9D7ksUN",
+        "cc": "Ms6j+oR+0Q8WkztBNKQWFMv5WmqR0aEB6Ssu2X5Ltz8DCjO75wO3XMoAtbIdNkKQ"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "Ajs6tIQm2VfZkGAO0v0iHg==",
+        "b": "0JqGDrxQofmiUujM",
+        "c": "lFT5ti99Z+HjJXQ1TEKj3QEkApXgnh841PSAexIAG+puMLbDcjghECdVb2Yc4/ZHeJ3kCplUD0s0IjijDokqpL7aaWRPv3KGMA==",
+        "d": "tDOOmJwVjY2C8pGtrZJv1A==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "/wHVtUWBjYPVdnska3/XsA==",
+        "bb": "NOqWUdBtL9D7ksUN",
+        "cc": "Ms6j+oR+0Q8WkztBNKQWFMv5WmqR0aEB6Ssu2X5Ltz8DCjO75wO3XMoAtbIdNkKQ"
+      }
+    }
+  ]
+}

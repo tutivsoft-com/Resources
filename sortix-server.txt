@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/sortix-server-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/sortix-server-index.json",
+  "z": "inactive",
+  "h": "sha256:476828d01991b24f7313385e2f487da5f4b92e625726ba30bff1ca1842614f8e",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "+o6SfoQVgI3y2i8cM9QWcA==",
+        "b": "sR8192UvsU8h7OQh",
+        "c": "EqdZubj9W9yv4V9KQrFEPFXkvvP9MiM4INp6lvm91iXSAJnraTQgHNeODyoQ0Y9G0x6d7Ydln8pchjRuHqfjf2RMBrHTMsyklg==",
+        "d": "wUG/JLNG7x+5kx8htYXRxA==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "g6JWRuhAXwolaJkXYrODgQ==",
+        "bb": "J8RLycsn5GGb5+NI",
+        "cc": "4vriyF3hu0WOwd1FLcG9zOJ/Yiv4H8ZZe3pzihsrPtbO7X39OhmRYnKwV9ruDnGV"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "+o6SfoQVgI3y2i8cM9QWcA==",
+        "b": "sR8192UvsU8h7OQh",
+        "c": "EqdZubj9W9yv4V9KQrFEPFXkvvP9MiM4INp6lvm91iXSAJnraTQgHNeODyoQ0Y9G0x6d7Ydln8pchjRuHqfjf2RMBrHTMsyklg==",
+        "d": "wUG/JLNG7x+5kx8htYXRxA==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "g6JWRuhAXwolaJkXYrODgQ==",
+        "bb": "J8RLycsn5GGb5+NI",
+        "cc": "4vriyF3hu0WOwd1FLcG9zOJ/Yiv4H8ZZe3pzihsrPtbO7X39OhmRYnKwV9ruDnGV"
+      }
+    }
+  ]
+}

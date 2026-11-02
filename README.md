@@ -1,3 +1,7 @@
+## OpenRouter manifest migration, 2 November 2026
+
+Fourteen additional app/platform key sources now have stable encrypted manifests. These retain the existing AES-256-GCM/PBKDF2 format. Current owners, rotation steps and activation limits are in the [RA1 key delivery owner](https://github.com/humble-new-student-89/RA1/blob/main/MAIN/11%20SOURCE%20of%20TRUTH/openrouter-key-delivery-source-of-truth.md). Existing app releases must first adopt their new loader code; a manifest push alone does not deploy that code.
+
 # Resources
 
 <!-- PORTFOLIO-METADATA:START -->

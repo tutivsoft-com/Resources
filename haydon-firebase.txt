@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/haydon-firebase-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/haydon-firebase-index.json",
+  "z": "inactive",
+  "h": "sha256:5cb001d0ff5dc1c8c5434ae5f2c9495629db3350b71be8578e0d13075b497392",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "mkV8/0KYFaDVNWRmwtLjtA==",
+        "b": "yfchgQO6YYURM+14",
+        "c": "BSMuRqVZ3UFSLn4efCrH+a4NbDK1uQuyd4YTEGvgwZutUEWz9AnZpVdMm8dRx2nwPpE0O3o/Q4/rGVg2Npxjq4l5/Dl2hTVblg==",
+        "d": "XFTXlK5hMC3ulrxq+txf5w==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "8mHgZTLze/O+IcZ/nElgeg==",
+        "bb": "pvnPn1m2CazPdmw/",
+        "cc": "1ZWxqOLcFYRUX2/rfiDsIfrdIvRxoUcTxyw3Rey4GEJIckG5PK5aEcFYFAQnXlGi"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "mkV8/0KYFaDVNWRmwtLjtA==",
+        "b": "yfchgQO6YYURM+14",
+        "c": "BSMuRqVZ3UFSLn4efCrH+a4NbDK1uQuyd4YTEGvgwZutUEWz9AnZpVdMm8dRx2nwPpE0O3o/Q4/rGVg2Npxjq4l5/Dl2hTVblg==",
+        "d": "XFTXlK5hMC3ulrxq+txf5w==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "8mHgZTLze/O+IcZ/nElgeg==",
+        "bb": "pvnPn1m2CazPdmw/",
+        "cc": "1ZWxqOLcFYRUX2/rfiDsIfrdIvRxoUcTxyw3Rey4GEJIckG5PK5aEcFYFAQnXlGi"
+      }
+    }
+  ]
+}

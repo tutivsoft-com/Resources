@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/elve-integrations-server-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/elve-integrations-server-index.json",
+  "z": "inactive",
+  "h": "sha256:eaa5023aebc5dd9e5d55b286c51249e188b8139755a647d8f85f7cee437c4d42",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "YGUGlybamJyecprU81hnHw==",
+        "b": "Bqo8nX6pwwvVmyhg",
+        "c": "bYwcgj0hDkp57xUOhXJDvJq9Okm6s1u1/1PQ05mwQmsuQs35J5Qm/P9Fy5SPXLhaALyaW8P6ZoAzZRq/sSAkjrfbSlFmX//2jQ==",
+        "d": "9Wjusf6tLaEOeOfFXYSNhg==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "JyrGCEdZULuRQFki6cgpZQ==",
+        "bb": "S8SrYfJrs9rrR81n",
+        "cc": "x+KWq9e6a6w58yFx6ofvxSQoYIa/c/vDC2OIThXgx76u+SMUeVYoZlpsHyLofj5E"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "YGUGlybamJyecprU81hnHw==",
+        "b": "Bqo8nX6pwwvVmyhg",
+        "c": "bYwcgj0hDkp57xUOhXJDvJq9Okm6s1u1/1PQ05mwQmsuQs35J5Qm/P9Fy5SPXLhaALyaW8P6ZoAzZRq/sSAkjrfbSlFmX//2jQ==",
+        "d": "9Wjusf6tLaEOeOfFXYSNhg==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "JyrGCEdZULuRQFki6cgpZQ==",
+        "bb": "S8SrYfJrs9rrR81n",
+        "cc": "x+KWq9e6a6w58yFx6ofvxSQoYIa/c/vDC2OIThXgx76u+SMUeVYoZlpsHyLofj5E"
+      }
+    }
+  ]
+}

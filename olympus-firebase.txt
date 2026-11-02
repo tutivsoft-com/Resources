@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/olympus-firebase-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/olympus-firebase-index.json",
+  "z": "inactive",
+  "h": "sha256:b27946fb4cad840ee59757a42075212c97e0f279f3e62828fb85b90c82bb339f",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "KeCJsy+yXye2x4lcQIeM0Q==",
+        "b": "dg+7NbaUBJ+IP6uh",
+        "c": "6afEg7XhPZ5ei9gVD7KEqQikRW84D9oWiReODg1tpfUKb5zK0xsFbd8ifkB+3wTE3YwPN8fSmQFAJHOFFJaXsL4ujI/yOoS8OQ==",
+        "d": "svZWNL1IE8vMX3VCNHuLjA==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "+tV4e0/IWu65iMBMz1V0kg==",
+        "bb": "tyCi6dierbX5yYuN",
+        "cc": "mG/jqjSSQE4JI2re3CaZDIZoBHsNKNxpD70Sv7RSV39cxHu+168y82/SGrIHGT2o"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "KeCJsy+yXye2x4lcQIeM0Q==",
+        "b": "dg+7NbaUBJ+IP6uh",
+        "c": "6afEg7XhPZ5ei9gVD7KEqQikRW84D9oWiReODg1tpfUKb5zK0xsFbd8ifkB+3wTE3YwPN8fSmQFAJHOFFJaXsL4ujI/yOoS8OQ==",
+        "d": "svZWNL1IE8vMX3VCNHuLjA==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "+tV4e0/IWu65iMBMz1V0kg==",
+        "bb": "tyCi6dierbX5yYuN",
+        "cc": "mG/jqjSSQE4JI2re3CaZDIZoBHsNKNxpD70Sv7RSV39cxHu+168y82/SGrIHGT2o"
+      }
+    }
+  ]
+}
