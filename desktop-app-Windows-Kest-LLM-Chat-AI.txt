@@ -6,7 +6,7 @@
   "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/desktop-app-Windows-Kest-LLM-Chat-AI-next.txt",
   "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/desktop-app-Windows-Kest-LLM-Chat-AI-index.json",
   "z": "inactive",
-  "h": "sha256:7995c487ad98163f3e86d0895415e31bb980037d03c7340d0b79ae6635b07775",
+  "h": "sha256:284ed58bac0ae2fe0b5e43b33e43e961cd146ef12e7ed790aadaa14207e29df6",
   "r": [
     {
       "i": "a",
@@ -19,17 +19,17 @@
         "x": "AES-256-GCM",
         "w": "PBKDF2-HMAC-SHA256",
         "n": 210000,
-        "a": "w7cjtYzQhpnn09+MGgBEVg==",
-        "b": "WX9HiOE7kaEfHSn+",
-        "c": "g+qa6VCY+xA92cjf9CvwhafsiCQHQgcDUdcK+N7Ma3mrtbzUEmfrEpbA7hEpnPIn+zoORTv2Pizyfhv9qYx31zdgG6SewvVDNA==",
-        "d": "7jn4/tXZpgVdE1eIb98nbA==",
+        "a": "zgPo1w187l7zCASiU7FXEQ==",
+        "b": "vZ4THZY14s6sK/dD",
+        "c": "HpcKhB8hXk7+es+CL4R1wqoP6xvVg1qb0e1o/wvmzesNQ2qYbcIanhr1WuiVIaLJyjspGWC6EnT+hd6i1UbYNMunYTYhiGemwg==",
+        "d": "xIzO3MPBS9oVKGcISwLcPg==",
         "qq": 0,
         "xx": "AES-192-GCM",
         "ww": "PBKDF2-HMAC-SHA1",
         "nn": 100000,
-        "aa": "lWdvuV6TBZ8cE/DjH589CQ==",
-        "bb": "1PFdwgdijy9VzQTF",
-        "cc": "c9hqErkKR5MxahBwR/pLRX25am6VEGsquIoh+0k9vpsm7xmCvJQJEZc2SWHvqLCi"
+        "aa": "1LU6V/R8/1i5++kJeFnCJg==",
+        "bb": "DtHY+tl3UAaKU3uB",
+        "cc": "Ysw614qSnJx+G4hh9HB+tnLpO8Ggnj0ottQXUlxizt061t5/K3j1RZnBxnjgYtQj"
       }
     },
     {
@@ -43,17 +43,17 @@
         "x": "AES-256-GCM",
         "w": "PBKDF2-HMAC-SHA256",
         "n": 210000,
-        "a": "w7cjtYzQhpnn09+MGgBEVg==",
-        "b": "WX9HiOE7kaEfHSn+",
-        "c": "g+qa6VCY+xA92cjf9CvwhafsiCQHQgcDUdcK+N7Ma3mrtbzUEmfrEpbA7hEpnPIn+zoORTv2Pizyfhv9qYx31zdgG6SewvVDNA==",
-        "d": "7jn4/tXZpgVdE1eIb98nbA==",
+        "a": "zgPo1w187l7zCASiU7FXEQ==",
+        "b": "vZ4THZY14s6sK/dD",
+        "c": "HpcKhB8hXk7+es+CL4R1wqoP6xvVg1qb0e1o/wvmzesNQ2qYbcIanhr1WuiVIaLJyjspGWC6EnT+hd6i1UbYNMunYTYhiGemwg==",
+        "d": "xIzO3MPBS9oVKGcISwLcPg==",
         "qq": 0,
         "xx": "AES-192-GCM",
         "ww": "PBKDF2-HMAC-SHA1",
         "nn": 100000,
-        "aa": "lWdvuV6TBZ8cE/DjH589CQ==",
-        "bb": "1PFdwgdijy9VzQTF",
-        "cc": "c9hqErkKR5MxahBwR/pLRX25am6VEGsquIoh+0k9vpsm7xmCvJQJEZc2SWHvqLCi"
+        "aa": "1LU6V/R8/1i5++kJeFnCJg==",
+        "bb": "DtHY+tl3UAaKU3uB",
+        "cc": "Ysw614qSnJx+G4hh9HB+tnLpO8Ggnj0ottQXUlxizt061t5/K3j1RZnBxnjgYtQj"
       }
     }
   ]

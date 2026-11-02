@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/extension-app-ClariLaw-Legal-Contract-Clarifier-firefox-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/extension-app-ClariLaw-Legal-Contract-Clarifier-firefox-index.json",
+  "z": "inactive",
+  "h": "sha256:b43a2525e6cd4177d58691bbf688afea4b646e6aaee7c979e0205f4dd4a0d8ca",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "isZxtCRKAl5a99AgUV6Pkg==",
+        "b": "gOYwJ6YeI0ed3QPr",
+        "c": "D9a8GGHFJw3GUFOClmTaL2OHeexkuLXwzDLzXutdHtOwNvDbEdFknK/1lXX/oJAXptXlaTB/VQ/APtnDzSobQ4QIQjehUQxBWw==",
+        "d": "oTa+a8R2Mz6cqCm2zvs0Ww==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "vm++XFKavYx96lu1H5wGsA==",
+        "bb": "iHPAin6sztdlYeLN",
+        "cc": "KtbnOMzOZBCL6GtqK9lhwAt/jXzdiHLEXcT5Gq0pp6C/elDB7M1mZfyrltD90tg8"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "isZxtCRKAl5a99AgUV6Pkg==",
+        "b": "gOYwJ6YeI0ed3QPr",
+        "c": "D9a8GGHFJw3GUFOClmTaL2OHeexkuLXwzDLzXutdHtOwNvDbEdFknK/1lXX/oJAXptXlaTB/VQ/APtnDzSobQ4QIQjehUQxBWw==",
+        "d": "oTa+a8R2Mz6cqCm2zvs0Ww==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "vm++XFKavYx96lu1H5wGsA==",
+        "bb": "iHPAin6sztdlYeLN",
+        "cc": "KtbnOMzOZBCL6GtqK9lhwAt/jXzdiHLEXcT5Gq0pp6C/elDB7M1mZfyrltD90tg8"
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/haydon-windows-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/haydon-windows-index.json",
+  "z": "inactive",
+  "h": "sha256:c43567a907f1923f2d4d9186ec1b4fff46b065075c168678368f05ef256f5d99",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "XXYBPF2sirHvKebAOPjyzg==",
+        "b": "pFvk1Cap0JQRcH4i",
+        "c": "g7rhlufn8pyFkqtyhyQgyYUT56zSKfE6RVTJIh1LzAfLvFjZkrqs2L4US7jVW5ndAYgBcSsEBq1XpTAnN+r4i0Ci+h25BxEx/g==",
+        "d": "v13bLEuq9G6Jl/RBHyIacg==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "WiFYx3wbzAOVyu/ZxLP/4w==",
+        "bb": "O25qcogOEwXx3ANb",
+        "cc": "6g/gQkNek1naHXJ8qW04b3D4jweLp85OlyQaPzWgZ78Z+A9lKEN9rcdvuoIJ5Yjf"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "XXYBPF2sirHvKebAOPjyzg==",
+        "b": "pFvk1Cap0JQRcH4i",
+        "c": "g7rhlufn8pyFkqtyhyQgyYUT56zSKfE6RVTJIh1LzAfLvFjZkrqs2L4US7jVW5ndAYgBcSsEBq1XpTAnN+r4i0Ci+h25BxEx/g==",
+        "d": "v13bLEuq9G6Jl/RBHyIacg==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "WiFYx3wbzAOVyu/ZxLP/4w==",
+        "bb": "O25qcogOEwXx3ANb",
+        "cc": "6g/gQkNek1naHXJ8qW04b3D4jweLp85OlyQaPzWgZ78Z+A9lKEN9rcdvuoIJ5Yjf"
+      }
+    }
+  ]
+}

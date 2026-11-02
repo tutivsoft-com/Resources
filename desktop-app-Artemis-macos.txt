@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/desktop-app-Artemis-macos-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/desktop-app-Artemis-macos-index.json",
+  "z": "inactive",
+  "h": "sha256:f5b3f1074d518f769b96b5ba88525a71cbb9db825a472b5710f0f212e438e322",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "6TJeG2+Adx0wKviv5MUH1A==",
+        "b": "MwGGpWNcJ/hB2fCW",
+        "c": "0nvTYynwwIpvGakZgPj3TB4LU5UMpovmBxGd2r4ZWNm33xsVKqZ6Bkm58qIptkzsJIRYnLQDyi4qRiRUybYNoaJZVW1xNpKTcw==",
+        "d": "BQ1L5voWYonCyGMIy8lG5w==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "+laGUmrEbFhF/Fun9bylNg==",
+        "bb": "oGMZMGZpRWetAiG1",
+        "cc": "h45C7RPzhCdKD69DTNewCzLE/ZjsGcY9M2ufGh2labziCgChhyoeSsbpNt9S1aeS"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "6TJeG2+Adx0wKviv5MUH1A==",
+        "b": "MwGGpWNcJ/hB2fCW",
+        "c": "0nvTYynwwIpvGakZgPj3TB4LU5UMpovmBxGd2r4ZWNm33xsVKqZ6Bkm58qIptkzsJIRYnLQDyi4qRiRUybYNoaJZVW1xNpKTcw==",
+        "d": "BQ1L5voWYonCyGMIy8lG5w==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "+laGUmrEbFhF/Fun9bylNg==",
+        "bb": "oGMZMGZpRWetAiG1",
+        "cc": "h45C7RPzhCdKD69DTNewCzLE/ZjsGcY9M2ufGh2labziCgChhyoeSsbpNt9S1aeS"
+      }
+    }
+  ]
+}

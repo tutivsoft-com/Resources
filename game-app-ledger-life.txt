@@ -6,7 +6,7 @@
   "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/game-app-ledger-life-next.txt",
   "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/game-app-ledger-life-index.json",
   "z": "inactive",
-  "h": "sha256:ffc8a31ca0147504636a6aa8d3727c657d97823747731301dacdeb3f8f261b57",
+  "h": "sha256:c9a12cd76c52bc0f86f918930daf43895449f4347205b9deed19d3a0e65cccd9",
   "r": [
     {
       "i": "a",
@@ -19,17 +19,17 @@
         "x": "AES-256-GCM",
         "w": "PBKDF2-HMAC-SHA256",
         "n": 210000,
-        "a": "qHBBbnytSbl7zM1FNyzdrw==",
-        "b": "X21saelDNv8XwvVS",
-        "c": "eMWEIDPMsf3d/me+Mn0pblPFfImodaZoDRY0iJm9hWmYa45CfueAkNDVwKLGLOEHAEsOEjFNry9cv293ZU3zp4ASweQ1twdjQg==",
-        "d": "zRcu/AYfxYgrpMOZsGQx0g==",
+        "a": "a/oILpUKucKwdolEnAHGlg==",
+        "b": "lz5yvS5L3MxcFLMo",
+        "c": "cqH6MOELtYsYYYSjD37rWzyb5SCglv0c6WmumiVUCUr0exCSdXNqF2EGAxPeAVD9xsTBnG/u/pnl93BquFnQlqdH65jh0EhrfQ==",
+        "d": "TvhAmuThoMNGsbQL26gj5A==",
         "qq": 0,
         "xx": "AES-192-GCM",
         "ww": "PBKDF2-HMAC-SHA1",
         "nn": 100000,
-        "aa": "lPgIAVG2WG3P0WEbdZperg==",
-        "bb": "Gs8nujXcPWVmYuqo",
-        "cc": "jrxe16BD9o02iS9F7rPzsliwzOLIad0CjPc2BZZvsCjz6sS1MoLBiAQGws2vGhLS"
+        "aa": "54iuh+9OM1OqBGF007uVKg==",
+        "bb": "tcW228RcQrLVvR+1",
+        "cc": "TGPPFbFR4mrOtSeQvD7zXIsu7qp0trFY6p853fcLHcRoknlox0hFu+XVe1Bj17b2"
       }
     },
     {
@@ -43,17 +43,17 @@
         "x": "AES-256-GCM",
         "w": "PBKDF2-HMAC-SHA256",
         "n": 210000,
-        "a": "qHBBbnytSbl7zM1FNyzdrw==",
-        "b": "X21saelDNv8XwvVS",
-        "c": "eMWEIDPMsf3d/me+Mn0pblPFfImodaZoDRY0iJm9hWmYa45CfueAkNDVwKLGLOEHAEsOEjFNry9cv293ZU3zp4ASweQ1twdjQg==",
-        "d": "zRcu/AYfxYgrpMOZsGQx0g==",
+        "a": "a/oILpUKucKwdolEnAHGlg==",
+        "b": "lz5yvS5L3MxcFLMo",
+        "c": "cqH6MOELtYsYYYSjD37rWzyb5SCglv0c6WmumiVUCUr0exCSdXNqF2EGAxPeAVD9xsTBnG/u/pnl93BquFnQlqdH65jh0EhrfQ==",
+        "d": "TvhAmuThoMNGsbQL26gj5A==",
         "qq": 0,
         "xx": "AES-192-GCM",
         "ww": "PBKDF2-HMAC-SHA1",
         "nn": 100000,
-        "aa": "lPgIAVG2WG3P0WEbdZperg==",
-        "bb": "Gs8nujXcPWVmYuqo",
-        "cc": "jrxe16BD9o02iS9F7rPzsliwzOLIad0CjPc2BZZvsCjz6sS1MoLBiAQGws2vGhLS"
+        "aa": "54iuh+9OM1OqBGF007uVKg==",
+        "bb": "tcW228RcQrLVvR+1",
+        "cc": "TGPPFbFR4mrOtSeQvD7zXIsu7qp0trFY6p853fcLHcRoknlox0hFu+XVe1Bj17b2"
       }
     }
   ]

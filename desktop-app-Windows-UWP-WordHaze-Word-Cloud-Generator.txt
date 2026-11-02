@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/desktop-app-Windows-UWP-WordHaze-Word-Cloud-Generator-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/desktop-app-Windows-UWP-WordHaze-Word-Cloud-Generator-index.json",
+  "z": "inactive",
+  "h": "sha256:272470370fcc5cb9b9f78b4cf2b7a9608537776b7f41a39879d1322e741a208e",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "xxmZdbPv6iai/A3gcN4+8w==",
+        "b": "BXyyy5xBuESZMQFo",
+        "c": "sYuRftbVsG5TIlJpDEPLFWEM7xn25pxIublm+9m/yiQLhUw6g5XOMdqIM2HOig84G/Ze7hgqX/d0oc99fMqy6rOzDekqx36htA==",
+        "d": "l7U4I9ezcCNIo8SjASq1sQ==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "DOZchzGdbt70J/7S07gEnw==",
+        "bb": "0vMhImrSjjbHhash",
+        "cc": "1W3GYjrSNFsvX4JhKuQvCHiCPdiBPXt0Kwm0jwqwPU88CrbnrSYY0ubvUFTRhVAE"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "xxmZdbPv6iai/A3gcN4+8w==",
+        "b": "BXyyy5xBuESZMQFo",
+        "c": "sYuRftbVsG5TIlJpDEPLFWEM7xn25pxIublm+9m/yiQLhUw6g5XOMdqIM2HOig84G/Ze7hgqX/d0oc99fMqy6rOzDekqx36htA==",
+        "d": "l7U4I9ezcCNIo8SjASq1sQ==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "DOZchzGdbt70J/7S07gEnw==",
+        "bb": "0vMhImrSjjbHhash",
+        "cc": "1W3GYjrSNFsvX4JhKuQvCHiCPdiBPXt0Kwm0jwqwPU88CrbnrSYY0ubvUFTRhVAE"
+      }
+    }
+  ]
+}

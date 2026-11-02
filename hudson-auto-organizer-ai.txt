@@ -1,1 +1,60 @@
-{"m":1,"r":[{"i":"hudson-auto-organizer-ai-2026-11-01","ii":"active","s":"0","v":{"q":1,"x":"AES-256-GCM","w":"PBKDF2-HMAC-SHA256","n":210000,"a":"Y/J4ha1E1IdVFuorvRl59g==","b":"Le9aCzOgdEsio3uP","c":"7jH6VAau/R8PHln+mjDZW1fF1705kxh5jeaDaLhIe9Uib+mM1DYqla3y6GDy02Otd4oWO+9jd2KE3jqtN6lnV9idimw/C6jC8w==","d":"eno2Ymniil5Wlrops6tGCg=="}}]}
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/hudson-auto-organizer-ai-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/hudson-auto-organizer-ai-index.json",
+  "z": "inactive",
+  "h": "sha256:e8e70ffdabef0e0d53a3def31aa9eaa227c0458725dfa063832e1fc1522086ab",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "4HtYURTuMtqASDeMy/IY3w==",
+        "b": "paGxXaCKnV5j0JZb",
+        "c": "uNnDnvWdXKkEsSQc/aXJ9QjkincfgktFQogDma1uHZukJfWG0Ad1EOneTtuD2H9WLJtBLlZja6TIY+hLNYNxrvs9rS0wXPrbcg==",
+        "d": "mxcSoSwYehlswh5FCiZ3hA==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "cpudaXuERo5sB51uBHDH9A==",
+        "bb": "igt/t+41PI/NORM1",
+        "cc": "6Qmp5i6Ryq+O/QEAJXMiw2ugY/YzroRMbjy96U/h6sjME0776TrUpHHHtG6JBh38"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "4HtYURTuMtqASDeMy/IY3w==",
+        "b": "paGxXaCKnV5j0JZb",
+        "c": "uNnDnvWdXKkEsSQc/aXJ9QjkincfgktFQogDma1uHZukJfWG0Ad1EOneTtuD2H9WLJtBLlZja6TIY+hLNYNxrvs9rS0wXPrbcg==",
+        "d": "mxcSoSwYehlswh5FCiZ3hA==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "cpudaXuERo5sB51uBHDH9A==",
+        "bb": "igt/t+41PI/NORM1",
+        "cc": "6Qmp5i6Ryq+O/QEAJXMiw2ugY/YzroRMbjy96U/h6sjME0776TrUpHHHtG6JBh38"
+      }
+    }
+  ]
+}

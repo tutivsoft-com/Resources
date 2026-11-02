@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/desktop-app-Artemis-windows-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/desktop-app-Artemis-windows-index.json",
+  "z": "inactive",
+  "h": "sha256:69d4c62de89ca1d3f024996cfbbf0f4c70a937659c3ebefcb2395a0f42c1624a",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "DTaQ4Nr/DapYg1twwmicLw==",
+        "b": "sWfw88BNk8D4MXqb",
+        "c": "8z8WBT99g/57aE+hsIcoh/UcdeoJ1j/UQeD5LKZkmkoghtV/IUdIoKGerX2M0yzBiCBjQgsP6xZpFpop68rE1UVy+xAO5nIfLA==",
+        "d": "OUlm6QmUXqs7XSfeIu3mkg==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "z6non3ehijdd52Wt8+tsjw==",
+        "bb": "5wICT83PGgHUtTLB",
+        "cc": "B5ZBU3ElvK49IdB/jzXCCS9U3P2u75R1Pv7NzQWcGbLr59W+xPQujc54ZVHxRZrB"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "DTaQ4Nr/DapYg1twwmicLw==",
+        "b": "sWfw88BNk8D4MXqb",
+        "c": "8z8WBT99g/57aE+hsIcoh/UcdeoJ1j/UQeD5LKZkmkoghtV/IUdIoKGerX2M0yzBiCBjQgsP6xZpFpop68rE1UVy+xAO5nIfLA==",
+        "d": "OUlm6QmUXqs7XSfeIu3mkg==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "z6non3ehijdd52Wt8+tsjw==",
+        "bb": "5wICT83PGgHUtTLB",
+        "cc": "B5ZBU3ElvK49IdB/jzXCCS9U3P2u75R1Pv7NzQWcGbLr59W+xPQujc54ZVHxRZrB"
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/extension-app-Antero-AI-Auto-Spell-Correct-chrome-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/extension-app-Antero-AI-Auto-Spell-Correct-chrome-index.json",
+  "z": "inactive",
+  "h": "sha256:210d7548ba6c2c0339d1865e3cb85a20e03a6e3c7ada362e36403d4f0ba718cf",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "zNKNeQuvH0ty6UXSo56KQQ==",
+        "b": "vb/QiTicEuN/cYp2",
+        "c": "cqr9tkYv4DMlF3a4T2gk4uSA6l25yurtv+Gsy6o/Gpm1jY2EXSGv1xuxD8B8qE/O2Ame0jzj6Pdg1gtnN2L4xDmOLKQJZkYcrw==",
+        "d": "lwBhVzcCvh70ejYASF/vbA==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "Qqox9gm9HMpi2Yzeyz01yg==",
+        "bb": "PMaRtCqrkwWOe0S1",
+        "cc": "PhyfDhRR9vCxkNQZD2dt/GQ6jFI3tKWtWGj8++B85fAMEeZq2knGc0xjvDWC8/sk"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "zNKNeQuvH0ty6UXSo56KQQ==",
+        "b": "vb/QiTicEuN/cYp2",
+        "c": "cqr9tkYv4DMlF3a4T2gk4uSA6l25yurtv+Gsy6o/Gpm1jY2EXSGv1xuxD8B8qE/O2Ame0jzj6Pdg1gtnN2L4xDmOLKQJZkYcrw==",
+        "d": "lwBhVzcCvh70ejYASF/vbA==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "Qqox9gm9HMpi2Yzeyz01yg==",
+        "bb": "PMaRtCqrkwWOe0S1",
+        "cc": "PhyfDhRR9vCxkNQZD2dt/GQ6jFI3tKWtWGj8++B85fAMEeZq2knGc0xjvDWC8/sk"
+      }
+    }
+  ]
+}

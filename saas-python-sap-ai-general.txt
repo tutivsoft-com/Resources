@@ -6,7 +6,7 @@
   "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/saas-python-sap-ai-general-next.txt",
   "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/saas-python-sap-ai-general-index.json",
   "z": "inactive",
-  "h": "sha256:734ac4ce9877af5ac33a9a9aa48bbdfcf53f77709d84939d12ca6eb2ce0448fa",
+  "h": "sha256:5ce16fae2731be22990dff020cb2725ccbf8d933b150c73802ca741b2cfb15d7",
   "r": [
     {
       "i": "a",
@@ -19,17 +19,17 @@
         "x": "AES-256-GCM",
         "w": "PBKDF2-HMAC-SHA256",
         "n": 210000,
-        "a": "pcpaqx/2/cWRptsLARgPgw==",
-        "b": "y7Dk1EcoFsmx04wz",
-        "c": "Y+HR5bh7sEBifEvi2nF0ZRd6S4+cWHr5j8YVUKX189SbKNs+aHpLgmbhoQKfZ+C6bkuVL3tIOkHcmjSQxGVkBsBu5NtXDh+r+w==",
-        "d": "weyZwHyNgLCa0PFHu3bx+w==",
+        "a": "64YBQ0vyL6eIKKivo0EaNA==",
+        "b": "pUmI4r1FpSzgVI0N",
+        "c": "BtJWP3V7vugbDkPb8glgoA0QcssTo4LcegTWl65qFth2dCwynOQ9Mx4doQwqzKP7POQBJSjlfmm2PlTrgxPPfdn6lBjVyLtz2A==",
+        "d": "v2Js0B/RuAuGdF+vvwPABg==",
         "qq": 0,
         "xx": "AES-192-GCM",
         "ww": "PBKDF2-HMAC-SHA1",
         "nn": 100000,
-        "aa": "9JUp6av1gEUZtewhYliB+A==",
-        "bb": "WIzwxjX/gf01yJGn",
-        "cc": "bnw08xarjay5ITG0O4KcigCMzRbUVfxJ6XgRcKDyfwwg1xODlV83mUlc8L8ApTh2"
+        "aa": "rTqR9ptmaGDtAbEiYEsEpw==",
+        "bb": "wbjW5iHHMI8Xejgy",
+        "cc": "hmEDtdEGVY9tFMRJsa4C8a0r67HZv/aO5aea9k2LXU7TJ/lz5e9pJLm7TfSJbAAk"
       }
     },
     {
@@ -43,17 +43,17 @@
         "x": "AES-256-GCM",
         "w": "PBKDF2-HMAC-SHA256",
         "n": 210000,
-        "a": "pcpaqx/2/cWRptsLARgPgw==",
-        "b": "y7Dk1EcoFsmx04wz",
-        "c": "Y+HR5bh7sEBifEvi2nF0ZRd6S4+cWHr5j8YVUKX189SbKNs+aHpLgmbhoQKfZ+C6bkuVL3tIOkHcmjSQxGVkBsBu5NtXDh+r+w==",
-        "d": "weyZwHyNgLCa0PFHu3bx+w==",
+        "a": "64YBQ0vyL6eIKKivo0EaNA==",
+        "b": "pUmI4r1FpSzgVI0N",
+        "c": "BtJWP3V7vugbDkPb8glgoA0QcssTo4LcegTWl65qFth2dCwynOQ9Mx4doQwqzKP7POQBJSjlfmm2PlTrgxPPfdn6lBjVyLtz2A==",
+        "d": "v2Js0B/RuAuGdF+vvwPABg==",
         "qq": 0,
         "xx": "AES-192-GCM",
         "ww": "PBKDF2-HMAC-SHA1",
         "nn": 100000,
-        "aa": "9JUp6av1gEUZtewhYliB+A==",
-        "bb": "WIzwxjX/gf01yJGn",
-        "cc": "bnw08xarjay5ITG0O4KcigCMzRbUVfxJ6XgRcKDyfwwg1xODlV83mUlc8L8ApTh2"
+        "aa": "rTqR9ptmaGDtAbEiYEsEpw==",
+        "bb": "wbjW5iHHMI8Xejgy",
+        "cc": "hmEDtdEGVY9tFMRJsa4C8a0r67HZv/aO5aea9k2LXU7TJ/lz5e9pJLm7TfSJbAAk"
       }
     }
   ]

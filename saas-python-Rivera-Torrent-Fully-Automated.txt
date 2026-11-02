@@ -6,7 +6,7 @@
   "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/saas-python-Rivera-Torrent-Fully-Automated-next.txt",
   "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/saas-python-Rivera-Torrent-Fully-Automated-index.json",
   "z": "inactive",
-  "h": "sha256:7686e184bda8f062f32e1608d6168f7cb0e18ca201c37e23709cb4dbd68faac9",
+  "h": "sha256:f3ba16be134fa8ffbd7971080ab5870c9c1ff6d5b8563056a49526188b4d3602",
   "r": [
     {
       "i": "a",
@@ -19,17 +19,17 @@
         "x": "AES-256-GCM",
         "w": "PBKDF2-HMAC-SHA256",
         "n": 210000,
-        "a": "0mc8Db/iA9FadDlNLBmzWQ==",
-        "b": "8qb5gZS891sHkJCM",
-        "c": "IrqPBKyUCpDZTw1FKSz2UI1PddiIlFZD5bmg6On155jrVZHJAqJXil2DunNxDK1kv6WAmqSofvu7ersx/qtGQhlYPYq7zQEKxQ==",
-        "d": "J4GurgbQuzthxV0weVnGNw==",
+        "a": "UQxEUrFZFcSFAza1iA/j7A==",
+        "b": "GLf+001SoYGqv0O4",
+        "c": "8e3SFlTwNCfhIDSnQcI2145GBrMOHu7yC43JEKRoska4+VZUtVisj2mNZ5GQfsMCiIoJKtysrd+6QLh2NLLAAlsLzPDdJrrWKg==",
+        "d": "kJIDDbmKlyB6e0rs4lQ4Kg==",
         "qq": 0,
         "xx": "AES-192-GCM",
         "ww": "PBKDF2-HMAC-SHA1",
         "nn": 100000,
-        "aa": "oztkgfzYPyjn0NOO1QpqRw==",
-        "bb": "9JuqMU1pF+6iUSd2",
-        "cc": "uMLafUzDJRY66AZjwGtvxrcW2J8zgo0VwpEAbQxyVfuEKFIVkKYzPxYnx0/mwpXd"
+        "aa": "N8Cd3b+CziT5f/A2ZxA/Aw==",
+        "bb": "EmdV3920yMAXAAfV",
+        "cc": "5KsAXy5P4HD2xy2MyHmP/ZBn2WJ43lJD+rdRGZO+Z8IvM74AJ5JyNnQBR24eKlXQ"
       }
     },
     {
@@ -43,17 +43,17 @@
         "x": "AES-256-GCM",
         "w": "PBKDF2-HMAC-SHA256",
         "n": 210000,
-        "a": "0mc8Db/iA9FadDlNLBmzWQ==",
-        "b": "8qb5gZS891sHkJCM",
-        "c": "IrqPBKyUCpDZTw1FKSz2UI1PddiIlFZD5bmg6On155jrVZHJAqJXil2DunNxDK1kv6WAmqSofvu7ersx/qtGQhlYPYq7zQEKxQ==",
-        "d": "J4GurgbQuzthxV0weVnGNw==",
+        "a": "UQxEUrFZFcSFAza1iA/j7A==",
+        "b": "GLf+001SoYGqv0O4",
+        "c": "8e3SFlTwNCfhIDSnQcI2145GBrMOHu7yC43JEKRoska4+VZUtVisj2mNZ5GQfsMCiIoJKtysrd+6QLh2NLLAAlsLzPDdJrrWKg==",
+        "d": "kJIDDbmKlyB6e0rs4lQ4Kg==",
         "qq": 0,
         "xx": "AES-192-GCM",
         "ww": "PBKDF2-HMAC-SHA1",
         "nn": 100000,
-        "aa": "oztkgfzYPyjn0NOO1QpqRw==",
-        "bb": "9JuqMU1pF+6iUSd2",
-        "cc": "uMLafUzDJRY66AZjwGtvxrcW2J8zgo0VwpEAbQxyVfuEKFIVkKYzPxYnx0/mwpXd"
+        "aa": "N8Cd3b+CziT5f/A2ZxA/Aw==",
+        "bb": "EmdV3920yMAXAAfV",
+        "cc": "5KsAXy5P4HD2xy2MyHmP/ZBn2WJ43lJD+rdRGZO+Z8IvM74AJ5JyNnQBR24eKlXQ"
       }
     }
   ]

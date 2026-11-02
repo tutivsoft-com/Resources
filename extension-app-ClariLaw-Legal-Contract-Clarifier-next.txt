@@ -3,12 +3,58 @@
   "mm": 2,
   "a": "a",
   "aa": "b",
-  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/extension-app-ClariLaw-Legal-Contract-Clarifier-next.txt",
-  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/extension-app-ClariLaw-Legal-Contract-Clarifier-index.json",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/extension-app-ClariLaw-Legal-Contract-Clarifier-next-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/extension-app-ClariLaw-Legal-Contract-Clarifier-next-index.json",
   "z": "inactive",
-  "h": "sha256:1df42e398ffc5f1ea79d6dce57498066f9c7b4a95d439eb62c21f872a1612fe2",
+  "h": "sha256:91b46d9a31f34ebd5b807d8f19f744f53d6ba93972a09425e674a03727a007ec",
   "r": [
-    {"i":"a","ii":"active","s":"0","ss":"1","t":0,"v":{"q":1,"x":"AES-256-GCM","w":"PBKDF2-HMAC-SHA256","n":210000,"a":"bsCrAGoom5EYLGd3e2tHyw==","b":"CGBL+QYJScfIkg2U","c":"/Fua5q9RBpHQL2GI2v18zIbNB4uIAb7ghb5/a3vHK1GSIocV4oArPZzPS1NjDSuVtIvxmQx7uShIfgmtX4gnuqth6kjc0WtFyg==","d":"E+HOU/8BaCTrjDb1q2Dw6g=="}},
-    {"i":"b","ii":"next","s":"1","ss":"0","t":1,"v":{"q":1,"x":"AES-256-GCM","w":"PBKDF2-HMAC-SHA256","n":210000,"a":"ek+qfdYRmSev7Mcnlm2ByQ==","b":"hS3T+WAOj7EC1Wdc","c":"hFKLcL5nbnX7ExjrPT1A6QPDx0O+RgAGpSTRfkhafyyXdRqRzK3U2WMb3X8m/ktARcyeLjMXpFRJPjlrWHsW9GaKJQT7kZFqlQ==","d":"ddLXRUL/nkmvGDSsEaWpJQ=="}}
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "W5RT1CPuB5iNIs7M8DBAIg==",
+        "b": "mdmYwZ4CswpDFMth",
+        "c": "XOj25miIOD02YJBshLsKk2J9Ux/cMRP1kG0SAl0XxLjJM5qVuGrwOJKcAFlGJnEesFLhkUt7O7akPzxrK30/+0CywQGsqMkN3g==",
+        "d": "YSavsBHtqwJzOSUslFs59A==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "qgqV8IsM85O8RO5sgkJO9g==",
+        "bb": "YHzF7FsQfl5fdj3O",
+        "cc": "z4BMT85k3w5BDIy+AMYncu2h0mIptEIAuCc+AOtSpkdyBs8dOUWdUVN6kZzBBRKZ"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "W5RT1CPuB5iNIs7M8DBAIg==",
+        "b": "mdmYwZ4CswpDFMth",
+        "c": "XOj25miIOD02YJBshLsKk2J9Ux/cMRP1kG0SAl0XxLjJM5qVuGrwOJKcAFlGJnEesFLhkUt7O7akPzxrK30/+0CywQGsqMkN3g==",
+        "d": "YSavsBHtqwJzOSUslFs59A==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "qgqV8IsM85O8RO5sgkJO9g==",
+        "bb": "YHzF7FsQfl5fdj3O",
+        "cc": "z4BMT85k3w5BDIy+AMYncu2h0mIptEIAuCc+AOtSpkdyBs8dOUWdUVN6kZzBBRKZ"
+      }
+    }
   ]
 }

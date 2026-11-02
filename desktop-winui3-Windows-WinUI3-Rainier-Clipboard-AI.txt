@@ -6,7 +6,7 @@
   "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/desktop-winui3-Windows-WinUI3-Rainier-Clipboard-AI-next.txt",
   "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/desktop-winui3-Windows-WinUI3-Rainier-Clipboard-AI-index.json",
   "z": "inactive",
-  "h": "sha256:d4b7d7dd5226d0dfbb0e10663db0d026772ef29c70fb857ec5791dffa69d0b01",
+  "h": "sha256:8ffcd65e39f8eb28e106c9538b5a4c26dc4242b3be1500fc1452f5cd8260170d",
   "r": [
     {
       "i": "a",
@@ -19,17 +19,17 @@
         "x": "AES-256-GCM",
         "w": "PBKDF2-HMAC-SHA256",
         "n": 210000,
-        "a": "dQ+12jr51RB0zNJArSrV4Q==",
-        "b": "+kuec19ZXIEL4QB0",
-        "c": "W3GumTFtqfriUYa5deAGNWFvRnWrm9x0gjW9GtZxd+RQXSnULAofXUm1rXMMv8eSF6rjl/DClvwqCmBp6LdVpHplJej4viXw6A==",
-        "d": "SPafEqGhSY8pl8rRU7OS4A==",
+        "a": "XlDMGj22x1Ggfi9mR1Hqew==",
+        "b": "dLUWBsEmJqaZSvT9",
+        "c": "+iBk9UVgQQEk2NulzojsCZiMBlngh2fF+UntW5yL6vtUmSX11fHe9BCjHke+v0pxERaexal3wSN7vzdl017QzqUcNn0kPIaCuA==",
+        "d": "NI9FmG4S5xHbnct5IrSc0w==",
         "qq": 0,
         "xx": "AES-192-GCM",
         "ww": "PBKDF2-HMAC-SHA1",
         "nn": 100000,
-        "aa": "zeR1DysXri/AWAijcKwnAA==",
-        "bb": "O70bqosuJcKlnQ3i",
-        "cc": "5sunlOMWHJKOJDoUiynQVWBx4aPH4mzdG3Z81gFNM2vk8UpaN7Dxx/93UA/6yUvp"
+        "aa": "lwtEDCz9UVQ8mO1SCFTPYg==",
+        "bb": "7dPxi5G4C3EbeqE8",
+        "cc": "Kj9R1lGDJa8OBubuGSncJ7kTcOghAfUqzXFC809fKvzcRkscQjqjxocDJs/0IrnC"
       }
     },
     {
@@ -43,17 +43,17 @@
         "x": "AES-256-GCM",
         "w": "PBKDF2-HMAC-SHA256",
         "n": 210000,
-        "a": "dQ+12jr51RB0zNJArSrV4Q==",
-        "b": "+kuec19ZXIEL4QB0",
-        "c": "W3GumTFtqfriUYa5deAGNWFvRnWrm9x0gjW9GtZxd+RQXSnULAofXUm1rXMMv8eSF6rjl/DClvwqCmBp6LdVpHplJej4viXw6A==",
-        "d": "SPafEqGhSY8pl8rRU7OS4A==",
+        "a": "XlDMGj22x1Ggfi9mR1Hqew==",
+        "b": "dLUWBsEmJqaZSvT9",
+        "c": "+iBk9UVgQQEk2NulzojsCZiMBlngh2fF+UntW5yL6vtUmSX11fHe9BCjHke+v0pxERaexal3wSN7vzdl017QzqUcNn0kPIaCuA==",
+        "d": "NI9FmG4S5xHbnct5IrSc0w==",
         "qq": 0,
         "xx": "AES-192-GCM",
         "ww": "PBKDF2-HMAC-SHA1",
         "nn": 100000,
-        "aa": "zeR1DysXri/AWAijcKwnAA==",
-        "bb": "O70bqosuJcKlnQ3i",
-        "cc": "5sunlOMWHJKOJDoUiynQVWBx4aPH4mzdG3Z81gFNM2vk8UpaN7Dxx/93UA/6yUvp"
+        "aa": "lwtEDCz9UVQ8mO1SCFTPYg==",
+        "bb": "7dPxi5G4C3EbeqE8",
+        "cc": "Kj9R1lGDJa8OBubuGSncJ7kTcOghAfUqzXFC809fKvzcRkscQjqjxocDJs/0IrnC"
       }
     }
   ]

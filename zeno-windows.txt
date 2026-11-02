@@ -1,0 +1,60 @@
+{
+  "m": 1,
+  "mm": 2,
+  "a": "a",
+  "aa": "b",
+  "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/zeno-windows-next.txt",
+  "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/zeno-windows-index.json",
+  "z": "inactive",
+  "h": "sha256:fbf2353998320127926026d2171273428ff21c7858fbf0e5b47203d0d5751acc",
+  "r": [
+    {
+      "i": "a",
+      "ii": "active",
+      "s": "0",
+      "ss": "1",
+      "t": 0,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "io2OsG45ZZTlJbLdjFHNlw==",
+        "b": "cfgkgE65IeZnquTN",
+        "c": "Nz7vaPD2u5dIktWpNxLlivTaqgRdfW/AH/fs5SwTfKqy/Xw8s0mB/9NFh8BjBqAxCtsMN065xnkW4VyycFTpfzIFIikGOdB10Q==",
+        "d": "xDowpSsKzQb+mMtVGaBGJQ==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "anbeTVO0clTD4E9m/bF2tg==",
+        "bb": "syorpqK9pr8z/1jv",
+        "cc": "LNDoat1jMs+wzX2YLczxsHE/+gT9YJmYeKdUOYH+8QDoQbEW0Sodc79/zy4kubj8"
+      }
+    },
+    {
+      "i": "b",
+      "ii": "next",
+      "s": "1",
+      "ss": "0",
+      "t": 1,
+      "v": {
+        "q": 1,
+        "x": "AES-256-GCM",
+        "w": "PBKDF2-HMAC-SHA256",
+        "n": 210000,
+        "a": "io2OsG45ZZTlJbLdjFHNlw==",
+        "b": "cfgkgE65IeZnquTN",
+        "c": "Nz7vaPD2u5dIktWpNxLlivTaqgRdfW/AH/fs5SwTfKqy/Xw8s0mB/9NFh8BjBqAxCtsMN065xnkW4VyycFTpfzIFIikGOdB10Q==",
+        "d": "xDowpSsKzQb+mMtVGaBGJQ==",
+        "qq": 0,
+        "xx": "AES-192-GCM",
+        "ww": "PBKDF2-HMAC-SHA1",
+        "nn": 100000,
+        "aa": "anbeTVO0clTD4E9m/bF2tg==",
+        "bb": "syorpqK9pr8z/1jv",
+        "cc": "LNDoat1jMs+wzX2YLczxsHE/+gT9YJmYeKdUOYH+8QDoQbEW0Sodc79/zy4kubj8"
+      }
+    }
+  ]
+}

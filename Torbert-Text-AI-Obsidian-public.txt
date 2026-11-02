@@ -6,7 +6,7 @@
   "n": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/Torbert-Text-AI-Obsidian-public-next.txt",
   "nn": "https://raw.githubusercontent.com/tutivsoft-com/Resources/main/Torbert-Text-AI-Obsidian-public-index.json",
   "z": "inactive",
-  "h": "sha256:5e3ec85228baa8f567763bfd3b43fcaa85417548947e801ceb2e0c57829aca4a",
+  "h": "sha256:6b3fc3310b5c609d87e63a2b6e75fedfe1cf56eea79a918cb90c2477edbab5b1",
   "r": [
     {
       "i": "a",
@@ -19,17 +19,17 @@
         "x": "AES-256-GCM",
         "w": "PBKDF2-HMAC-SHA256",
         "n": 210000,
-        "a": "bUS5IZ7SgwJsAyKdaolYNw==",
-        "b": "TYLzq9YzLMF6yMGm",
-        "c": "3tu+fk1JngyLcFd+Yu3/+mLYeccj+CnvTe9GmRzMSFWbTW006uBIjPl1AclbsW8bRVsHe+xNsLXvZ81FQMZW5+BsDRFmdYGJsg==",
-        "d": "krBZ2SjgBlzi0VJ1peTXAA==",
+        "a": "urRpa5eylGxIz8PrphGpCg==",
+        "b": "5mL+ceVYLsRU44BH",
+        "c": "d6kMtKktJ4RWHETReTNGKZOsp8WfjaCWkfqsJZ/e3AlrqrbgtobSn0VpeLOmrbxMgFnA9jxw7ftoaaly+q+sA96nfsiZedrSpg==",
+        "d": "c6d9bEzJUjeEM1SgFJNV0w==",
         "qq": 0,
         "xx": "AES-192-GCM",
         "ww": "PBKDF2-HMAC-SHA1",
         "nn": 100000,
-        "aa": "PDYH9IX/WVYzN4YYecyQVQ==",
-        "bb": "7fUMzJ+xHQiNYnXt",
-        "cc": "erHyaxfXq4Pc/lqXEvTW8pqPKFMJtuKevoDMNiT0sQQwXZ9U+U2JrYRlT4XCUodC"
+        "aa": "RS5vajQmFrX2Vw/h0k8z0w==",
+        "bb": "luQ8vfTH17xDzuZO",
+        "cc": "u853O/+of0jrU1F3h/zn/Oai+M0I9wp0xg8ys+lUncjYvcGBGdPWehNH6QS9/MVD"
       }
     },
     {
@@ -43,17 +43,17 @@
         "x": "AES-256-GCM",
         "w": "PBKDF2-HMAC-SHA256",
         "n": 210000,
-        "a": "bUS5IZ7SgwJsAyKdaolYNw==",
-        "b": "TYLzq9YzLMF6yMGm",
-        "c": "3tu+fk1JngyLcFd+Yu3/+mLYeccj+CnvTe9GmRzMSFWbTW006uBIjPl1AclbsW8bRVsHe+xNsLXvZ81FQMZW5+BsDRFmdYGJsg==",
-        "d": "krBZ2SjgBlzi0VJ1peTXAA==",
+        "a": "urRpa5eylGxIz8PrphGpCg==",
+        "b": "5mL+ceVYLsRU44BH",
+        "c": "d6kMtKktJ4RWHETReTNGKZOsp8WfjaCWkfqsJZ/e3AlrqrbgtobSn0VpeLOmrbxMgFnA9jxw7ftoaaly+q+sA96nfsiZedrSpg==",
+        "d": "c6d9bEzJUjeEM1SgFJNV0w==",
         "qq": 0,
         "xx": "AES-192-GCM",
         "ww": "PBKDF2-HMAC-SHA1",
         "nn": 100000,
-        "aa": "PDYH9IX/WVYzN4YYecyQVQ==",
-        "bb": "7fUMzJ+xHQiNYnXt",
-        "cc": "erHyaxfXq4Pc/lqXEvTW8pqPKFMJtuKevoDMNiT0sQQwXZ9U+U2JrYRlT4XCUodC"
+        "aa": "RS5vajQmFrX2Vw/h0k8z0w==",
+        "bb": "luQ8vfTH17xDzuZO",
+        "cc": "u853O/+of0jrU1F3h/zn/Oai+M0I9wp0xg8ys+lUncjYvcGBGdPWehNH6QS9/MVD"
       }
     }
   ]
